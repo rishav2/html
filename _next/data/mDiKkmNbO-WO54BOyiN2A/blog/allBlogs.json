@@ -1,0 +1,3393 @@
+[
+  {
+    "id": 4,
+    "attributes": {
+      "title": "Aus Jufund wird Crowdrecht - Gemeinsam gerecht!",
+      "url": "10_02_23_Crowdrecht",
+      "description": "Crowdrecht - ein neuer Name für eine neue Ära im Crowdinvesting",
+      "date": "2023-02-10",
+      "createdAt": "2023-02-14T12:21:21.676Z",
+      "updatedAt": "2023-02-14T12:21:51.766Z",
+      "publishedAt": "2023-02-14T12:21:51.757Z",
+      "content": "Wir freuen uns, bekannt zu geben, dass wir uns von Jufund zu Crowdrecht umbenannt haben.\nDiese Veränderung spiegelt unser Engagement für mehr Transparenz und Klarheit wider, wenn es darum geht, was wir tun und wofür wir stehen.\n\n### Crowdrecht - was bedeutet das?\nCrowdrecht steht für Crowdinvesting im Rechtsbereich. Mit unserer Plattform verbinden wir Investoren mit Rechtsfällen, die finanzielle Unterstützung benötigen. Durch das Crowdinvesting kann die Last des Rechtsstreits auf viele Schultern verteilt werden, was zu einer schnelleren und günstigeren Lösung führen kann.\nUnsere Vision ist es, mehr Gerechtigkeit in der Welt zu schaffen. Indem wir eine Plattform bereitstellen, auf der Investoren und Kläger zusammenkommen können, ermöglichen wir es Menschen, ihre Rechte durchzusetzen, die sie sonst nicht hätten.\n\n### Gemeinsam gerecht mit Crowdrecht\nMit unserem neuen Namen, Crowdrecht, bringen wir die Crowd als Gemeinschaft und die Spezialisierung auf Rechtsthemen in den Vordergrund. Wir glauben, dass dieser Name den Nutzen unserer Plattform und unsere Vision besser widerspiegelt.\nWir freuen uns auf einen erfolgreichen Start als Crowdrecht und auf die Möglichkeit, mehr Menschen zu helfen, Gerechtigkeit zu finden. Mit Ihrer Unterstützung können wir eine bessere Zukunft für alle schaffen.",
+      "image": {
+        "data": {
+          "id": 5,
+          "attributes": {
+            "name": "10_02_23_Crowdrecht.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 640,
+            "height": 427,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_10_02_23_Crowdrecht.png",
+                "hash": "thumbnail_10_02_23_Crowdrecht_6a5b94564d",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 8.32,
+                "url": "/uploads/thumbnail_10_02_23_Crowdrecht_6a5b94564d.png"
+              },
+              "small": {
+                "name": "small_10_02_23_Crowdrecht.png",
+                "hash": "small_10_02_23_Crowdrecht_6a5b94564d",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 500,
+                "height": 334,
+                "size": 19.49,
+                "url": "/uploads/small_10_02_23_Crowdrecht_6a5b94564d.png"
+              }
+            },
+            "hash": "10_02_23_Crowdrecht_6a5b94564d",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 4.5,
+            "url": "/uploads/10_02_23_Crowdrecht_6a5b94564d.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-02-14T12:20:43.218Z",
+            "updatedAt": "2023-02-21T11:12:18.854Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "title": "News",
+            "description": "Alle wichtigen Neuigkeiten bei Crowdrecht erfahrt ihr hier!",
+            "createdAt": "2023-02-14T12:21:38.915Z",
+            "updatedAt": "2023-02-14T12:21:39.740Z",
+            "publishedAt": "2023-02-14T12:21:39.732Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 3,
+            "attributes": {
+              "tag": "Crowd",
+              "createdAt": "2023-02-14T10:05:01.272Z",
+              "updatedAt": "2023-02-14T10:05:01.975Z",
+              "publishedAt": "2023-02-14T10:05:01.969Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 8,
+    "attributes": {
+      "title": "Rechte und Pflichten von Mietern und Vermietern",
+      "url": "11_04_23_rechte_pflichten",
+      "description": "In diesem Blogbeitrag erfahrt ihr mehr über die Rechte und Pflichten von Mietern und Vermietern.",
+      "date": "2023-04-11",
+      "createdAt": "2023-04-11T20:03:32.358Z",
+      "updatedAt": "2023-04-18T19:18:08.889Z",
+      "publishedAt": "2023-04-18T19:13:35.751Z",
+      "content": "In einer Welt, in der das Mietverhältnis zwischen Mietern und Vermietern oft auf Spannungen stoßen kann, ist es wichtig, die rechtlichen Grundlagen für ein friedliches Zusammenleben zu kennen. In diesem Blogbeitrag geben wir einen Überblick über die Rechte und Pflichten von Mietern und Vermietern, um für ein harmonisches Miteinander zu sorgen.\n\n### Rechte und Pflichten des Vermieters\na) Instandhaltung der Mietsache:\nDer Vermieter ist verpflichtet, die vermietete Wohnung oder das Haus in einem bewohnbaren Zustand zu erhalten und notwendige Reparaturen durchzuführen. Dazu gehört auch die Instandhaltung der gemeinschaftlich genutzten Bereiche wie Treppenhäuser, Flure und Grünanlagen.\n\nb) Nebenkostenabrechnung:\nDer Vermieter ist dazu verpflichtet, eine jährliche Nebenkostenabrechnung für den Mieter zu erstellen, die eine detaillierte Aufstellung der anfallenden Kosten enthält. Dabei hat der Vermieter auch die Pflicht, Abrechnungen korrekt und transparent zu gestalten.\n\nc) Kündigungsschutz:\nDer Vermieter hat das Recht, das Mietverhältnis unter bestimmten Voraussetzungen zu kündigen, beispielsweise bei Zahlungsverzug des Mieters oder Eigenbedarf. Hierbei muss jedoch immer die gesetzliche Kündigungsfrist eingehalten werden.\n\n### Rechte und Pflichten des Mieters\na) Miete und Nebenkosten:\nDer Mieter ist verpflichtet, die vereinbarte Miete und die vereinbarten Nebenkosten pünktlich und in voller Höhe zu zahlen. Bei Zahlungsverzug kann der Vermieter Mahnungen aussprechen und im schlimmsten Fall das Mietverhältnis kündigen.\n\nb) Schönheitsreparaturen:\nDer Mieter ist in der Regel für die Durchführung von Schönheitsreparaturen zuständig. Dazu zählen das Streichen der Wände, das Tapezieren und das Ausbessern von Löchern. Allerdings können im Mietvertrag auch andere Regelungen getroffen werden.\n\nc) Untervermietung:\nDer Mieter hat grundsätzlich das Recht, einen Teil der Wohnung unterzuvermieten, sofern der Vermieter hierzu seine Zustimmung erteilt. Bei einer unerlaubten Untervermietung kann der Vermieter das Mietverhältnis fristlos kündigen.\n\n### Gemeinsame Pflichten und Rechte\na) Hausordnung:\nSowohl Mieter als auch Vermieter sind verpflichtet, die im Mietvertrag oder der Hausordnung festgelegten Regelungen einzuhalten. Dazu zählen beispielsweise Ruhezeiten, Mülltrennung und die Pflege der gemeinschaftlichen Anlagen.\n\nb) Kommunikation:\nEin offener und respektvoller Dialog zwischen Mietern und Vermietern ist entscheidend für ein harmonisches Miteinander. Beide Parteien sollten bei Problemen oder Unstimmigkeiten das Gespräch suchen und gemeinsam nach Lösungen suchen.\n\nc) Mängelanzeige und -beseitigung:\nMieter sollten Mängel und Schäden an der Mietsache unverzüglich dem Vermieter melden. Der Vermieter ist dann verpflichtet, diese Mängel innerhalb einer angemessenen Frist zu beheben. Bei schwerwiegenden Mängeln, die die Nutzung der Mietsache erheblich beeinträchtigen, kann der Mieter unter Umständen auch ein Recht auf Mietminderung geltend machen.\n\nd) Kündigung des Mietvertrages:\nSowohl der Mieter als auch der Vermieter haben das Recht, das Mietverhältnis unter Einhaltung der gesetzlichen Kündigungsfristen und -gründe zu beenden. Hierbei sollten beide Parteien stets auf eine korrekte und fristgerechte Kündigung achten, um mögliche rechtliche Streitigkeiten zu vermeiden.\n\n### Fazit:\nEin harmonisches Miteinander zwischen Mietern und Vermietern basiert auf dem gegenseitigen Respekt und der Einhaltung der Rechte und Pflichten, die sich aus dem Mietvertrag und den gesetzlichen Regelungen ergeben. Offene Kommunikation und eine konstruktive Zusammenarbeit sind dabei essenziell, um Konflikte zu vermeiden und eine angenehme Wohnsituation für alle Beteiligten zu gewährleisten.",
+      "image": {
+        "data": {
+          "id": 82,
+          "attributes": {
+            "name": "Mietvertrag",
+            "alternativeText": "Mietvertrag",
+            "caption": null,
+            "width": 6000,
+            "height": 4000,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_pexels-andrea-piacquadio-3760067.jpg",
+                "hash": "thumbnail_pexels_andrea_piacquadio_3760067_c3acd9dd7e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 5.1,
+                "url": "/uploads/thumbnail_pexels_andrea_piacquadio_3760067_c3acd9dd7e.jpg"
+              }
+            },
+            "hash": "pexels_andrea_piacquadio_3760067_c3acd9dd7e",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 792.11,
+            "url": "/uploads/pexels_andrea_piacquadio_3760067_c3acd9dd7e.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-04-18T19:16:36.194Z",
+            "updatedAt": "2023-04-18T19:16:44.413Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 6,
+            "attributes": {
+              "tag": "Mietrecht",
+              "createdAt": "2023-04-11T20:06:48.144Z",
+              "updatedAt": "2023-04-11T20:06:57.653Z",
+              "publishedAt": "2023-04-11T20:06:57.649Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "title": "Wie ergibt sich eigentlich ein Streitwert?",
+      "url": "15_02_2023_Streitwert",
+      "description": "Der Streitwert ist zur Berechnung der Kosten eines Rechtsstreits unerlässlich - Aber wie setzt er sich eigentlich zusammen?",
+      "date": "2023-02-15",
+      "createdAt": "2023-02-14T13:27:42.031Z",
+      "updatedAt": "2023-02-14T13:27:45.413Z",
+      "publishedAt": "2023-02-14T13:27:45.405Z",
+      "content": "Bei Crowdrecht spielt die Arbeit von Anwälten und Juristen eine entscheidende Rolle für den Erfolg eines Falles. Doch wie genau arbeiten diese Fachleute bei Rechtsfällen? In diesem Blogartikel geben wir einen Einblick in die Arbeit von Anwälten und Juristen bei Rechtsfällen.\nVorbereitung: Bevor ein Fall vor Gericht geht, bereiten Anwälte und Juristen die notwendigen Unterlagen und Argumente vor. Dazu gehören unter anderem das Studium des Falls, die Durchführung von Recherchen und die Erstellung von Gutachten.\nVertretung vor Gericht: Anwälte und Juristen vertreten ihre Mandanten vor Gericht und stellen ihre Argumente und Beweise vor. Hierbei müssen sie das geltende Recht und die Vorschriften des jeweiligen Gerichts kennen und anwenden.\nVerhandlungen und Vergleich: Anwälte und Juristen können auch Verhandlungen mit der Gegenpartei führen und einen Vergleich aushandeln, um den Fall außergerichtlich zu lösen.\nBeratung: Anwälte und Juristen beraten ihre Mandanten auch über die möglichen Auswirkungen einer Entscheidung auf ihre Rechte und Pflichten.\nAnwälte und Juristen müssen strenge ethische Regeln und Verhaltensstandards einhalten müssen. Sie müssen sich zudem regelmäßig fortbilden, um ihr Fachwissen auf dem neuesten Stand zu halten.",
+      "image": {
+        "data": {
+          "id": 6,
+          "attributes": {
+            "name": "15_02_2023_Streitwert.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 640,
+            "height": 427,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_15_02_2023_Streitwert.jpg",
+                "hash": "thumbnail_15_02_2023_Streitwert_7bdb99e71a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 8.18,
+                "url": "/uploads/thumbnail_15_02_2023_Streitwert_7bdb99e71a.jpg"
+              },
+              "small": {
+                "name": "small_15_02_2023_Streitwert.jpg",
+                "hash": "small_15_02_2023_Streitwert_7bdb99e71a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 334,
+                "size": 24.42,
+                "url": "/uploads/small_15_02_2023_Streitwert_7bdb99e71a.jpg"
+              }
+          },
+            "hash": "15_02_2023_Streitwert_7bdb99e71a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 36.19,
+            "url": "/uploads/15_02_2023_Streitwert_7bdb99e71a.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-02-14T13:27:29.334Z",
+            "updatedAt": "2023-02-21T11:12:00.199Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 2,
+            "attributes": {
+              "tag": "Kosten",
+              "createdAt": "2023-02-14T10:04:53.737Z",
+              "updatedAt": "2023-02-14T10:04:54.484Z",
+              "publishedAt": "2023-02-14T10:04:54.478Z"
+            }
+          },
+          {
+            "id": 1,
+            "attributes": {
+              "tag": "Klage",
+              "createdAt": "2023-02-14T10:04:47.001Z",
+              "updatedAt": "2023-02-14T10:04:47.682Z",
+              "publishedAt": "2023-02-14T10:04:47.678Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "title": "Urteil: Keine Aufklärungspflicht über Notstromfunktion bei Solaranlagen",
+      "url": "15_03_2023_Rechtsprechung",
+      "description": "Ein Urteil des LG Frankenthal zeigt, dass Verkäufer von Photovoltaikanlagen nicht automatisch für die Aufklärung über die Funktionsweise der Anlage verantwortlich sind.",
+      "date": "2023-03-15",
+      "createdAt": "2023-03-23T12:11:52.773Z",
+      "updatedAt": "2023-03-25T11:59:02.356Z",
+      "publishedAt": "2023-03-25T11:58:06.588Z",
+      "content": "Ein aktuelles Urteil des LG Frankenthal hat für Aufsehen gesorgt: Der Verkäufer einer Photovoltaikanlage muss den Käufer nicht ohne Weiteres darüber aufklären, dass die verkaufte Anlage nur dann Strom liefert, wenn das öffentliche Netz funktioniert. Dies mag für viele überraschend sein, da man bei der Installation einer Solaranlage davon ausgeht, auch bei Stromausfall autark zu sein. Doch wie das Gericht entschied, dürfen die Aufklärungs- und Beratungspflichten des Verkäufers nicht überspannt werden.\n\n### Der konkrete Fall: fehlende Notstromfunktion und Uneinigkeit über Verkäuferpflichten\nDer konkrete Fall betrifft ein Ehepaar aus Neustadt, das eine Photovoltaikanlage auf das Dach ihres Wohnhauses montieren ließ. Die Anlage funktionierte jedoch nur, wenn Strom aus dem öffentlichen Netz bereitgestellt wurde. Bei Stromausfall schaltete sich die PV-Anlage automatisch ab. Die Eheleute waren der Ansicht, dass der Verkäufer sie auf diesen Umstand hätte hinweisen müssen. Sie forderten eine Nachrüstung der Anlage mit einer Notstromfunktion zu einem Preis, den der Verkäufer nicht akzeptieren wollte. Schließlich verweigerten die Eheleute die Zahlung des vollen Kaufpreises, woraufhin der Verkäufer Klage einreichte.\n\nDas LG Frankenthal gab dem Verkäufer vollumfänglich Recht und verurteilte die Eheleute zur Zahlung des vollen Kaufpreises. Der Verkäufer sei nicht dazu verpflichtet gewesen, von sich aus über die fehlende Notstromfunktion aufzuklären. Eine solche Sonderausstattung sei auch nicht Bestandteil des geschlossenen Vertrags gewesen.\n\n### Fazit und Empfehlungen für Käufer und Verkäufer von Photovoltaikanlagen\nDas Urteil des LG Frankenthal zeigt, dass Verkäufer von Photovoltaikanlagen nicht automatisch für die Aufklärung über die Funktionsweise der Anlage verantwortlich sind. Dennoch sollten Käufer sich im Vorfeld genau über die verschiedenen Optionen und Ausstattungsmerkmale informieren, um Enttäuschungen und unvorhergesehene Kosten zu vermeiden. Auch Verkäufer sollten darauf achten, ihren Kunden umfassende Informationen zu geben und mögliche Unsicherheiten zu klären, um Unstimmigkeiten und Rechtsstreitigkeiten zu vermeiden.\n(LG Frankenthal v. 15.8.2022 - 6 O 79/22)",
+      "image": {
+        "data": {
+          "id": 79,
+          "attributes": {
+            "name": "23_03_2023_Rspr2.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 639,
+            "height": 427,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_23_03_2023_Rspr2.jpg",
+                "hash": "thumbnail_23_03_2023_Rspr2_a72989fe21",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 233,
+                "height": 156,
+                "size": 10.97,
+                "url": "/uploads/thumbnail_23_03_2023_Rspr2_a72989fe21.jpg"
+              }
+            },
+            "hash": "23_03_2023_Rspr2_a72989fe21",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 56.99,
+            "url": "/uploads/23_03_2023_Rspr2_a72989fe21.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-03-23T12:08:02.350Z",
+            "updatedAt": "2023-03-23T12:11:10.799Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 3,
+          "attributes": {
+            "title": "Aktuelle Rechtsprechung",
+            "description": "Wir informieren euch, was höchst aktuell an den deutschen Gerichten entschieden wird.",
+            "createdAt": "2023-03-23T12:12:38.249Z",
+            "updatedAt": "2023-03-23T12:12:42.911Z",
+            "publishedAt": "2023-03-23T12:12:42.909Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 5,
+            "attributes": {
+              "tag": "Verbraucherschutz",
+              "createdAt": "2023-03-23T12:13:01.381Z",
+              "updatedAt": "2023-03-23T12:13:15.764Z",
+              "publishedAt": "2023-03-23T12:13:15.761Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "title": "Wie man als Anleger beim Crowdinvesting in Rechtsfälle erfolgreich ist",
+      "url": "16_01_23_Investment",
+      "description": "Geld in Klagen investieren? Das sind die wichtigsten Fakten, die ihr wissen müsst!",
+      "date": "2023-01-16",
+      "createdAt": "2023-02-14T11:59:39.237Z",
+      "updatedAt": "2023-03-28T12:43:04.697Z",
+      "publishedAt": "2023-02-14T12:16:53.543Z",
+      "content": "Crowdinvesting in Rechtsfälle ermöglicht Anlegern in Prozesse zu investieren, die sonst unterfinanziert wären. Dies bietet nicht nur die Chance, in potenziell lukrative Anlage zu investieren, sondern auch einen Beitrag zur Unterstützung gesellschaftlicher Anliegen zu leisten. Auf unserer Plattform haben Anleger die Möglichkeit, ihr Kapital in Fälle zu investieren, die sonst keine Finanzierung erhalten würden.\nUm als Anleger erfolgreich zu sein, gibt es einige wichtige Schritte, die man beachten sollte.\n\n### Die wichtigsten Tipps fürs Crowdinvesting\n1. Man sollte man sich Zeit nehmen, um die Details des Falls und die damit verbundenen Risiken zu verstehen. Dies bedeutet, dass man sich mit dem Fall auseinandersetzt und die relevanten Gesetze und Vorschriften kennt. Auf unserer Plattform stellen wir sicher, dass alle Fälle gründlich geprüft werden und dass das Team, das den Fall durchführt, über die erforderliche Erfahrung und Kenntnisse verfügt, um den Fall erfolgreich durchzuführen.\n2. Man sollte sich über die potenziellen Auszahlungen im Klaren sein. Es ist wichtig zu verstehen, dass es keine Garantie für eine Auszahlung gibt und dass die Auszahlungen auch von den Erfolgen des Falls abhängen. Auf unserer Plattform stellen wir sicher, dass Anleger realistische Erwartungen haben und informieren sie über die potenziellen Auszahlungen und Risiken.\n3. Man sollte das Portfolio diversifizieren. Es ist wichtig, nicht all sein Geld in einen einzigen Fall zu investieren, sondern das Geld auf mehrere Fälle aufzuteilen, um das Risiko zu minimieren. Auf unserer Plattform ermöglichen wir Anlegern, in mehrere Fälle zu investieren und das Risiko somit zu minimieren.\n4. Man sollte sich über die Regulierung im Klaren sein. Crowdinvesting in Rechtsfälle unterliegt bestimmten Regulierungen und es ist wichtig, sicherzustellen, dass man sich an diese hält. Auf unserer Plattform halten wir uns selbstverständlich an alle relevanten Gesetze und Vorschriften und stellen sicher, dass auch unsere Investoren sich an diese halten.\n5. Letztendlich ist es wichtig, dass man sich Zeit nimmt, um die Details des Falls und die damit verbundenen Risiken zu verstehen, bevor man investiert. Eine gründliche Recherche und ein tiefes Verständnis des Falls sind entscheidend, um erfolgreich zu sein und gleichzeitig einen Beitrag zu einem gesellschaftlich wichtigen Anliegen zu leisten.\n\n### Crowdinvesting mit Jufund\nAuf unserer Plattform haben wir uns zum Ziel gesetzt, es Anlegern so einfach wie möglich zu machen, erfolgreich zu sein und gleichzeitig einen Beitrag zur Unterstützung gesellschaftlicher Anliegen zu leisten. Wir bieten eine gründliche Prüfung der Fälle, realistische Erwartungen an potenzielle Auszahlungen und die Möglichkeit, das Portfolio zu diversifizieren. Auch halten wir uns selbstverständlich an alle relevanten Gesetze und Vorschriften, um sicherzustellen, dass die Investitionen legal und sicher sind.\nWenn man sich an diese Schritte hält und unsere Plattform nutzt, kann man als Anleger erfolgreich sein, während man gleichzeitig einen wichtigen Beitrag zur Finanzierung von Prozessen leistet, die sonst unterfinanziert wären und somit ein gesellschaftliches Anliegen unterstützt.\nWir freuen uns bei Investitionsentscheidungen zu unterstützen.",
+      "image": {
+        "data": {
+          "id": 4,
+          "attributes": {
+            "name": "16_01_23_Investment.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 640,
+            "height": 427,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_16_01_23_Investment.jpg",
+                "hash": "thumbnail_16_01_23_Investment_5a5356eae7",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 6.32,
+                "url": "/uploads/thumbnail_16_01_23_Investment_5a5356eae7.jpg"
+              },
+              "small": {
+                "name": "small_16_01_23_Investment.jpg",
+                "hash": "small_16_01_23_Investment_5a5356eae7",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 334,
+                "size": 28.41,
+                "url": "/uploads/small_16_01_23_Investment_5a5356eae7.jpg"
+              }
+            },
+            "hash": "16_01_23_Investment_5a5356eae7",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 48.17,
+            "url": "/uploads/16_01_23_Investment_5a5356eae7.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-02-14T12:16:36.998Z",
+            "updatedAt": "2023-02-21T11:12:32.288Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 4,
+            "attributes": {
+              "tag": "Investment",
+              "createdAt": "2023-02-14T10:05:15.875Z",
+              "updatedAt": "2023-02-14T10:05:16.520Z",
+              "publishedAt": "2023-02-14T10:05:16.514Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 1,
+    "attributes": {
+      "title": "Das Klageverfahren in Deutschland",
+      "url": "22_12_22_Klageverfahren",
+      "description": "Wie funktioniert eigentlich der Weg von der Klage zum Gericht? Unsere Co-Founderin erklärt es euch!",
+      "date": "2022-12-22",
+      "createdAt": "2023-02-14T10:03:56.837Z",
+      "updatedAt": "2023-03-28T08:38:20.335Z",
+      "publishedAt": "2023-02-14T10:05:34.094Z",
+      "content": "Der Alltag steckt voller juristischer Risiken: Bei jedem noch so kleinen Kauf entsteht ein Kaufvertrag, jede Nutzung eines Angebots des öffentlichen Nahverkehrs stellt ein Beförderungsvertrag dar. Doch insbesondere bei größeren Vertragsgeschäften entstehen Risiken des Missverständnisses, die unmittelbar zu einem Rechtsstreit führen können. Wer sich im Unrecht fühlt, hat die Möglichkeit von einer juristischen Beratung Gebrauch zu machen. Wird angeraten eine Klage einzureichen steht hierbei der Rechtsweg der deutschen Gerichtsbarkeit offen. Eine Klage ist ein Antrag auf eine gerichtliche Entscheidung, das so genannte Urteil. Dies entscheidet, was im Falle eines Rechtsstreits zwischen zwei Parteien, die außergerichtlich keine Einigung finden. Oftmals dreht es sich um Schadensersatz oder Geldforderungen. Das Gericht entscheidet, ob die eingereichte Klage korrekt ist. Erst dann wird ein Klageverfahren eröffnet. Rechtsstreitigkeiten vor Gericht, die zivilrechtlicher Art sind und einen Streitwert unter 5.000 EUR innehaben, sind in Deutschland auch ohne eine Rechtsanwältin oder einen Rechtsanwalt möglich.\n\n\n### Der Weg von der Klage zum Gericht\nUm Klage einzureichen, muss man sich zunächst an das zuständige Gericht wenden. Dies ist meistens am Wohnort oder am Unternehmenssitz der gegnerischen Partei.\nBei allen Streitigkeiten mit einem Streitwert unter 5.000 EUR ist das Amtsgericht zuständig, darüber muss die Klage beim Landgericht eingereicht werden.\nNachdem die Klage beim Amts- oder Landgericht eingereicht wurde, wird die gegnerische Seite vom Gericht kontaktiert und die Klage wird zugestellt.\nIm nächsten Schritt wird der Gegenseite Zeit und Möglichkeit gegeben sich zu dem Klagevorwurf zu äußern und eine Stellungnahme abzugeben.\nWird von der Gegenseite der Vorwurf abgestritten, wird erstmals ein mündliches Verfahren eingeleitet. Hierbei treffen sich die Parteien vor Gericht, um mit der zugeteilten Richterin oder dem zugeteilten Richter die Sachlage zu besprechen. Danach wird eine Entscheidung getroffen oder es findet eine Einigung mit Hilfe eines Kompromisses statt.\n\n\n### Dauer und Kosten eines Rechtsstreits\nDie durchschnittliche Dauer eines Gerichtsverfahrens liegt in Deutschland bei Amtsgerichten bei etwa fünf Monaten.\nDie Gerichts- und Anwaltskosten richten sich nach dem so genannten Streitwert. Dieser wiederum richtet sich nach dem Wert des Gegenstandes, um den gestritten wird.\nIst der Gegenstand nicht unmittelbar an einem bestimmten Wert in Geld zu messen, so entscheidet das Gericht nach freiem Ermessen welcher Wert dem Streitgegentand beizulegen ist. Auch gegen diese Festlegung des Streitwerts kann Beschwerde eingelegt werden, wenn berechtigte Zweifel an der Bemessung bestehen.\nDie Kosten für einen Anwalt bemessen sich an dem Rechtsanwaltsvergütungsgesetz, die Gerichtskosten an dem Gerichtskostengesetz. Wird beispielsweise um eine bestimmte Zahlungsforderung gestritten, so ist in der Regel die begehrte Zahlungshöhe der Streitwert. Dreht es sich um einen konkreten Gegenstand, so ist der aktuelle Wert dessen der Streitwert.\n\n\n### Beispiel:\nWird ein Klageverfahren mit einem Streitwert in Höhe von 800 EUR geführt, so entstehen Anwaltsgebühren für die Vertretung vor Gericht in Höhe von 261,80 EUR, ausgenommen der Auslagen und Gebühren vor außergerichtliche Tätigkeiten des Anwalts vor dem Prozess selbst. Dazu kommen bei einem Streitwert bis 1.000 EUR Gerichtsgebühren in Höhe von 53,00 EUR. Wird während dem Prozess festgestellt, dass die Klage erweitert werden sollte, entsteht durch die Korrektur ein erhöhter Streitwert.",
+      "image": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "name": "22_12_22_Klageverfahren.jpg",
+            "alternativeText": "Crowdrecht Klageverfahren",
+            "caption": null,
+            "width": 640,
+            "height": 427,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_22_12_22_Klageverfahren.jpg",
+                "hash": "thumbnail_22_12_22_Klageverfahren_9d0016694a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 6.64,
+                "url": "/uploads/thumbnail_22_12_22_Klageverfahren_9d0016694a.jpg"
+              },
+              "small": {
+                "name": "small_22_12_22_Klageverfahren.jpg",
+                "hash": "small_22_12_22_Klageverfahren_9d0016694a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 334,
+                "size": 21.21,
+                "url": "/uploads/small_22_12_22_Klageverfahren_9d0016694a.jpg"
+              }
+            },
+            "hash": "22_12_22_Klageverfahren_9d0016694a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 32.57,
+            "url": "/uploads/22_12_22_Klageverfahren_9d0016694a.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-02-14T10:08:02.269Z",
+            "updatedAt": "2023-02-21T11:12:44.291Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "tag": "Klage",
+              "createdAt": "2023-02-14T10:04:47.001Z",
+              "updatedAt": "2023-02-14T10:04:47.682Z",
+              "publishedAt": "2023-02-14T10:04:47.678Z"
+            }
+          },
+          {
+            "id": 2,
+            "attributes": {
+              "tag": "Kosten",
+              "createdAt": "2023-02-14T10:04:53.737Z",
+              "updatedAt": "2023-02-14T10:04:54.484Z",
+              "publishedAt": "2023-02-14T10:04:54.478Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "title": "Crowdinvesting in Rechtsfälle: Gerechtigkeit für alle",
+      "url": "23_01_23_Gerechtigkeit",
+      "description": "Mit Crowdinvesting in Rechtsfälle auf Jufund sorgst du für mehr Gerechtigkeit!",
+      "date": "2023-01-23",
+      "createdAt": "2023-02-14T12:15:13.658Z",
+      "updatedAt": "2023-02-14T13:03:44.075Z",
+      "publishedAt": "2023-02-14T12:16:23.306Z",
+      "content": "Rechtsfälle handeln von Menschen, die gegen Ungerechtigkeit kämpfen, von mutigen Anwälten, die für Gerechtigkeit eintreten und von Entscheidungen, die das Leben von Menschen verändern können.\n\n### Recht und Rechtsgebiete\nAber welche Arten von Rechtsfällen gibt es eigentlich?\nIm Zivilrecht geht es um Streitigkeiten zwischen Privatpersonen oder Unternehmen, wie zum Beispiel Mietstreitigkeiten, Vertragsstreitigkeiten oder Schadensersatzansprüche. \nIm Strafrecht geht es um Verbrechen, die von der Regierung verfolgt werden, wie zum Beispiel Mord, Raub oder Betrug.\nIm Verwaltungsrecht geht es um Streitigkeiten zwischen Bürgern und der Regierung, wie zum Beispiel Streitigkeiten über Steuern, Sozialleistungen oder Umweltfragen.\nIm Arbeitsrecht geht es um Streitigkeiten zwischen Arbeitnehmern und Arbeitgebern, wie zum Beispiel Kündigungen, Lohnstreitigkeiten oder diskriminierende Behandlung am Arbeitsplatz.\nUnd im Menschenrechtsrecht geht es um die Verletzung von Grundrechten wie Meinungsfreiheit oder das Recht auf ein faires Verfahren.\n\n### Unterstützung durch Crowdinvesting\nAber was ist mit den Fällen, die nicht so offensichtlich sind? Was ist mit den Menschen, die keine finanziellen Mittel haben, um einen Anwalt zu bezahlen oder einen Fall vor Gericht zu bringen? Hier kommt das Crowdinvesting ins Spiel. Durch das Zusammenlegen von Mitteln vieler Menschen können wir die Kosten für Rechtsdienstleistungen senken und die Zugänglichkeit zu Rechtshilfe verbessern. Egal ob ihr von Ungerechtigkeit betroffen seid oder einfach einen Fall unterstützen wollt, das Crowdinvesting ermöglicht es euch, euch aktiv an Rechtsfällen zu beteiligen und dazu beizutragen, dass Gerechtigkeit hergestellt wird.\n\nEin weiterer Vorteil des Crowdinvestings in Rechtsfälle ist, dass es uns die Möglichkeit gibt, uns für Fälle zu engagieren, die uns persönlich betreffen oder die uns am Herzen liegen. Wir können uns mit anderen verbinden, die dasselbe Ziel teilen und gemeinsam die Mittel und Ressourcen aufbringen, um für Gerechtigkeit zu kämpfen. Ob es sich um einen Fall handelt, bei dem man selbst betroffen ist, oder um einen Fall, bei dem man das Gefühl hat, dass Gerechtigkeit gefordert ist, das Crowdinvesting ermöglicht es uns, unsere Stimme zu erheben und aktiv dazu beizutragen, dass Ungerechtigkeiten korrigiert werden.",
+      "image": {
+        "data": {
+          "id": 3,
+          "attributes": {
+            "name": "23_01_23_Gerechtigkeit.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 640,
+            "height": 427,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_23_01_23_Gerechtigkeit.jpg",
+                "hash": "thumbnail_23_01_23_Gerechtigkeit_c501d73c2e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 11.06,
+                "url": "/uploads/thumbnail_23_01_23_Gerechtigkeit_c501d73c2e.jpg"
+              },
+              "small": {
+                "name": "small_23_01_23_Gerechtigkeit.jpg",
+                "hash": "small_23_01_23_Gerechtigkeit_c501d73c2e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 334,
+                "size": 36.5,
+                "url": "/uploads/small_23_01_23_Gerechtigkeit_c501d73c2e.jpg"
+              }
+            },
+            "hash": "23_01_23_Gerechtigkeit_c501d73c2e",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 54.93,
+            "url": "/uploads/23_01_23_Gerechtigkeit_c501d73c2e.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-02-14T12:16:14.342Z",
+            "updatedAt": "2023-02-21T11:12:37.263Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 3,
+            "attributes": {
+              "tag": "Crowd",
+              "createdAt": "2023-02-14T10:05:01.272Z",
+              "updatedAt": "2023-02-14T10:05:01.975Z",
+              "publishedAt": "2023-02-14T10:05:01.969Z"
+            }
+          },
+          {
+            "id": 4,
+            "attributes": {
+              "tag": "Investment",
+              "createdAt": "2023-02-14T10:05:15.875Z",
+              "updatedAt": "2023-02-14T10:05:16.520Z",
+              "publishedAt": "2023-02-14T10:05:16.514Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 15,
+    "attributes": {
+      "title": "Individuelle Lösungen bei Crowdrecht: Crowdfunding & Crowdinvesting",
+      "url": "crowdfunding-crowdinvesting-rechtsfaelle",
+      "description": "Crowdrecht kombiniert Crowdfunding und Crowdinvesting, um vielfältige Bedürfnisse bei Rechtsfällen abzudecken.",
+      "date": "2023-05-12",
+      "createdAt": "2023-05-12T05:26:46.459Z",
+      "updatedAt": "2023-05-12T05:29:38.795Z",
+      "publishedAt": "2023-05-12T05:26:48.799Z",
+      "content": "Bei Crowdrecht ist man stolz darauf, individuelle Lösungen für die Finanzierung von Rechtsfällen anzubieten. Dabei werden zwei unterschiedliche Finanzierungsmodelle verwendet: Crowdfunding und Crowdinvesting. In diesem Blogbeitrag wird erklärt, wie diese Modelle funktionieren und welche Vorteile sie für Klagende oder Unterstützer bieten.\n\n### Crowdfunding: Spendenbasierte Finanzierung von Rechtsfällen\nDas Crowdfunding-Modell basiert auf reinen Spenden. Als Unterstützer kann man Gelder für einen Rechtsfall bereitstellen, ohne eine Beteiligung am Anspruch oder Gewinn zu erwarten. Dieses Modell eignet sich besonders für Fälle, die keine monetären Ansprüche beinhalten, sondern auf Leistung gerichtet sind oder wenn der Klagende seinen Anspruch nicht mit den Unterstützern teilen möchte. Hier steht die Spendenbereitschaft im Vordergrund.\n\n### Crowdinvesting: Beteiligung am Anspruch oder Gewinn\nBeim Crowdinvesting-Modell erhalten die Unterstützer eine Beteiligung am Anspruch oder Gewinn eines Rechtsfalls. Der Klagende kann entscheiden, ob er die Unterstützer am Anspruch beteiligen möchte, was die Finanzierungsbereitschaft erhöhen kann. In solchen Fällen erhält der Unterstützer im Erfolgsfall einen prozentualen Anteil an der gewonnenen Summe. Dieses Modell ist attraktiv für Anleger, die sich aktiv an der Finanzierung von Rechtsfällen beteiligen und von erfolgreichen Fällen profitieren möchten.\n\n### Flexibilität für Klagende: Entscheidungsfreiheit bei der Finanzierungsart\nDie beiden Finanzierungsmodelle bieten dem Klagenden mehr Flexibilität bei der Finanzierung seines Rechtsfalls. Man kann wählen, ob man 100% des Anspruchs behalten und das Crowdfunding-Modell nutzen möchte, oder ob man bereit ist, die Unterstützer am Anspruch zu beteiligen, um die Finanzierungsbereitschaft zu erhöhen und das Crowdinvesting-Modell zu nutzen.\n\n### Fazit:\n\nCrowdrecht ermöglicht es, die passende Finanzierungslösung für den individuellen Fall zu finden. Die Modelle Crowdfunding und Crowdinvesting bieten sowohl für Klagende als auch Unterstützer attraktive Optionen, um sich gegenseitig bei rechtlichen Anliegen zu unterstützen. Durch die Wahl der am besten geeigneten Option profitieren beide Seiten von diesen individuellen Lösungen.",
+      "image": {
+        "data": {
+          "id": 96,
+          "attributes": {
+            "name": "Person am Laptop",
+            "alternativeText": "Person am Laptop",
+            "caption": null,
+            "width": 5789,
+            "height": 3859,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Person am Laptop",
+                "hash": "thumbnail_Person_am_Laptop_52fb7251e3",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 6.87,
+                "url": "/uploads/thumbnail_Person_am_Laptop_52fb7251e3.jpg"
+              }
+            },
+            "hash": "Person_am_Laptop_52fb7251e3",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 806.37,
+            "url": "/uploads/Person_am_Laptop_52fb7251e3.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-12T05:21:54.424Z",
+            "updatedAt": "2023-05-12T05:21:54.424Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 3,
+            "attributes": {
+              "tag": "Crowd",
+              "createdAt": "2023-02-14T10:05:01.272Z",
+              "updatedAt": "2023-02-14T10:05:01.975Z",
+              "publishedAt": "2023-02-14T10:05:01.969Z"
+            }
+          },
+          {
+            "id": 4,
+            "attributes": {
+              "tag": "Investment",
+              "createdAt": "2023-02-14T10:05:15.875Z",
+              "updatedAt": "2023-02-14T10:05:16.520Z",
+              "publishedAt": "2023-02-14T10:05:16.514Z"
+            }
+          },
+          {
+            "id": 1,
+            "attributes": {
+              "tag": "Klage",
+              "createdAt": "2023-02-14T10:04:47.001Z",
+              "updatedAt": "2023-02-14T10:04:47.682Z",
+              "publishedAt": "2023-02-14T10:04:47.678Z"
+            }
+          },
+          {
+            "id": 2,
+            "attributes": {
+              "tag": "Kosten",
+              "createdAt": "2023-02-14T10:04:53.737Z",
+              "updatedAt": "2023-02-14T10:04:54.484Z",
+              "publishedAt": "2023-02-14T10:04:54.478Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "attributes": {
+      "title": "Crowdinvesting: Schwarmfinanzierung verändert Anlageformen",
+      "url": "crowdinvesting_revolution",
+      "description": "Entdecke die Crowdinvesting-Revolution und erfahre, wie Schwarmfinanzierung die Welt der Anlagen verändert.",
+      "date": "2023-04-18",
+      "createdAt": "2023-04-19T19:56:05.397Z",
+      "updatedAt": "2023-04-19T19:57:10.275Z",
+      "publishedAt": "2023-04-19T19:56:07.497Z",
+      "content": "Crowdinvesting, auch als Schwarmfinanzierung bekannt, hat in den letzten Jahren rasant an Popularität gewonnen und stellt eine interessante Alternative zu traditionellen Anlageformen dar. In diesem Blogbeitrag untersuchen wir die Auswirkungen von Crowdinvesting auf den Anlagebereich, präsentieren Erfolgsgeschichten und vergleichen diese innovative Finanzierungsform mit herkömmlichen Anlagestrategien.\n\n### Was ist Crowdinvesting?\nCrowdinvesting ist eine Form der Schwarmfinanzierung, bei der eine große Anzahl von Menschen (die \"Crowd\") gemeinsam in ein bestimmtes Projekt oder Unternehmen investiert. Diese Investitionen können in Form von Eigenkapital, Darlehen oder anderen Finanzinstrumenten erfolgen. Im Gegenzug erhalten die Investoren eine Beteiligung am Unternehmen oder Zinsen auf ihr Darlehen. Durch das Internet und spezialisierte Plattformen wird der Zugang zu solchen Investitionsmöglichkeiten vereinfacht und demokratisiert.\n\n### Auswirkungen von Crowdinvesting auf den Anlagebereich\n\nDemokratisierung des Investierens: Crowdinvesting ermöglicht es auch Kleinanlegern, in innovative Projekte und Unternehmen zu investieren, die ihnen sonst möglicherweise nicht zugänglich wären. Dies führt zu einer Demokratisierung des Investitionsmarktes und eröffnet neue Möglichkeiten für Anleger und Unternehmen.\n\nDiversifikation: Anleger können durch Crowdinvesting ihr Portfolio diversifizieren und in verschiedene Branchen, Projekte und Regionen investieren. Dadurch können sie ihre Risiken besser verteilen und von unterschiedlichen Marktsegmenten profitieren.\n\nFörderung von Innovationen: Crowdinvesting unterstützt Start-ups und innovative Projekte, indem es ihnen den Zugang zu Kapital erleichtert. So können Ideen und Produkte schneller auf den Markt gebracht und weiterentwickelt werden.\n\n### Crowdinvesting im Vergleich zu traditionellen Anlageformen\n\nZugang: Während traditionelle Anlageformen wie Aktien, Anleihen oder Investmentfonds in der Regel über Banken und Vermögensverwalter erhältlich sind, ermöglichen Crowdinvesting-Plattformen den direkten Zugang zu Investitionsmöglichkeiten.\n\nTransparenz: Crowdinvesting-Plattformen bieten in der Regel detaillierte Informationen über die Projekte und Unternehmen, in die investiert werden kann. Dies ermöglicht es Anlegern, fundierte Entscheidungen zu treffen und sich aktiv an der Entwicklung zu beteiligen.\n\nRisiko und Rendite: Im Vergleich zu traditionellen Anlageformen können Crowdinvesting-Projekte ein höheres Risiko, aber auch höhere Renditechancen bieten. Anleger sollten sich bewusst sein, dass nicht alle Projekte erfolgreich sein werden und ein Totalverlust des eingesetzten Kapitals möglich ist. Dennoch kann Crowdinvesting eine attraktive Ergänzung zu einem diversifizierten Portfolio sein.\n\nFlexibilität: Crowdinvesting bietet Anlegern die Möglichkeit, in verschiedene Projekte und Unternehmen zu investieren, ohne dabei große Summen aufwenden zu müssen. So können auch kleinere Investitionen getätigt und bei Bedarf angepasst werden.\n\n### Fazit:\nDie Crowdinvesting-Revolution verändert die Art und Weise, wie Menschen investieren, und bietet eine interessante Alternative zu traditionellen Anlageformen. Durch die Demokratisierung des Investierens, die Diversifikation von Portfolios und die Förderung von Innovationen trägt Crowdinvesting zu einer lebendigen und vielfältigen Investitionslandschaft bei. Anleger sollten jedoch das Risiko im Auge behalten und sicherstellen, dass sie ihre Investitionen entsprechend diversifizieren.",
+      "image": {
+        "data": {
+          "id": 84,
+          "attributes": {
+            "name": "Zahlen",
+            "alternativeText": "Zahlen und Taschenrechner",
+            "caption": null,
+            "width": 6646,
+            "height": 4431,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Zahlen",
+                "hash": "thumbnail_Zahlen_fcd86bfb53",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 10.52,
+                "url": "/uploads/thumbnail_Zahlen_fcd86bfb53.jpg"
+              }
+            },
+            "hash": "Zahlen_fcd86bfb53",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 3671.6,
+            "url": "/uploads/Zahlen_fcd86bfb53.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-04-19T19:50:24.943Z",
+            "updatedAt": "2023-04-19T19:50:24.943Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 3,
+            "attributes": {
+              "tag": "Crowd",
+              "createdAt": "2023-02-14T10:05:01.272Z",
+              "updatedAt": "2023-02-14T10:05:01.975Z",
+              "publishedAt": "2023-02-14T10:05:01.969Z"
+            }
+          },
+          {
+            "id": 4,
+            "attributes": {
+              "tag": "Investment",
+              "createdAt": "2023-02-14T10:05:15.875Z",
+              "updatedAt": "2023-02-14T10:05:16.520Z",
+              "publishedAt": "2023-02-14T10:05:16.514Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 19,
+    "attributes": {
+      "title": "Kostenbarrieren und Lösungen im deutschen Rechtssystem",
+      "url": "die-kosten-des-rechts-hindernisse-und-innovationen",
+      "description": "Der Zugang zum Recht in Deutschland ist oft durch hohe Kosten beschränkt. Dieser Blogbeitrag beleuchtet die Probleme und mögliche innovative Lösungen.",
+      "date": "2023-05-17",
+      "createdAt": "2023-05-17T14:29:54.431Z",
+      "updatedAt": "2023-05-17T14:29:56.367Z",
+      "publishedAt": "2023-05-17T14:29:56.361Z",
+      "content": "### Die Kostenfrage als Hindernis\nEin fairer Zugang zur Justiz ist ein Grundpfeiler einer demokratischen Gesellschaft. In Deutschland jedoch stellt die Kostenfrage ein erhebliches Hindernis dar, das vielen Bürgern den Zugang zu ihrem Recht verwehrt. Eine Studie des Gesamtverbands der Deutschen Versicherungswirtschaft (GDV) aus dem Jahr 2013 zeigt, dass 71% der Deutschen aus Angst vor den Kosten eines Rechtsstreits auf ihre Rechte verzichten würden. Die Situation wurde durch die Anhebung von Anwalts- und Gerichtsgebühren zum 01.01.2021 noch verschärft, die den Zugang zum Recht im Schnitt um zehn Prozent teurer macht.\n\n### Der Zwiespalt der Finanzierungsoptionen\nEs gibt zwar verschiedene Möglichkeiten zur Finanzierung von Rechtsstreitigkeiten, diese bringen jedoch erhebliche Nachteile mit sich. Nur 39% der Bundesbürger haben eine Rechtsschutzversicherung, aber selbst diese deckt oft keine Klagen mit niedrigen Streitwerten ab, die dennoch hohe soziale Auswirkungen für den Kläger haben können.\n\n### Prozesskostenhilfe und ihre Hürden\nProzesskostenhilfe, die finanzielle Unterstützung bei Rechtsstreitigkeiten gewährt, wird nur unter strengen Bedingungen gewährt und kann trotz finanzieller Notlage abgelehnt werden. Zudem wird sie oft nur teilweise gewährt, was zu einer erheblichen finanziellen Belastung führen kann.\n\n### Die Rolle von Prozesskostenfinanzierern\nProzesskostenfinanzierer bieten eine weitere Möglichkeit, allerdings unterstützen sie nur bei Fällen mit hohem Streitwert, außerordentlich hoher Erfolgswahrscheinlichkeit und potentiell hohem Ausschüttungsbetrag. Dies reduziert die Menge der potentiellen Kläger, die überhaupt Unterstützung finden können. Zudem übernehmen Prozesskostenfinanzierer alle operativen und administrativen Schritte, was zu einer erheblichen Intransparenz führen kann.\n\n### Die Problematik der Spendenfinanzierung\nEine weitere Option ist die Sammlung von Spenden, jedoch besteht hier oft kein Überblick über die Verwendung der Gelder und es gibt in keinem Fall eine Rückzahlung. Ein bekanntes Beispiel hierfür ist der Fall von Carola Rackete aus dem Jahr 2019. Nachdem die Sea-Watch-Kapitänin von Italien angeklagt wurde, wurden in kürzester Zeit 1 Mio. € Spendengelder zur Finanzierung ihrer Verteidigung gesammelt. Nachdem Italien die Klage zurückzog, wurde das Geld durch die Initiatoren selbst intransparent gespendet, und der Verbleib des Geldes ist bis dato nicht bekannt.\n\n### Die Folgen der fehlenden finanziellen Mittel\nDiese Situation führt dazu, dass viele Menschen in Deutschland ihre Rechte aufgrund fehlender finanzieller Mittel nicht durchsetzen können. Dies führt unmittelbar zu Ungerechtigkeit und Benachteiligung in der Gesellschaft.\n\n### Ausblick auf innovative Lösungen\nEs ist daher dringend notwendig, innovative Lösungen zu finden, die den Zugang zur Justiz für alle Bürger ermöglichen. Dabei kann Technologie eine entscheidende Rolle spielen, indem sie Prozesse effizienter gestaltet, Transparenz schafft und neue Formen der Finanzierung ermöglicht.\n\n### Crowdrecht fördert Gerechtigkeit\nAngesichts dieser vielschichtigen Herausforderungen bringt Crowdrecht eine innovative Lösung auf den Tisch. Durch unser Modell des gemeinschaftlichen Finanzierens von Rechtsstreitigkeiten können wir dazu beitragen, die Kosten und Risiken für den Einzelnen zu senken und somit den Zugang zur Justiz zu erweitern. Zudem erhöht unser transparenter Ansatz das Vertrauen in den Rechtsprozess und stellt sicher, dass jeder, unabhängig von seinem finanziellen Hintergrund, seine Rechte wahrnehmen kann.",
+      "image": {
+        "data": {
+          "id": 100,
+          "attributes": {
+            "name": "230420_Next Generation Summit for Good_c_Claudia_Höhne_047.jpg",
+            "alternativeText": "Besserer Zugang zu Recht Stift und Papier",
+            "caption": null,
+            "width": 6000,
+            "height": 4000,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_230420_Next Generation Summit for Good_c_Claudia_Höhne_047.jpg",
+                "hash": "thumbnail_230420_Next_Generation_Summit_for_Good_c_Claudia_Hoehne_047_6cf49aec9d",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 7.75,
+                "url": "/uploads/thumbnail_230420_Next_Generation_Summit_for_Good_c_Claudia_Hoehne_047_6cf49aec9d.jpg"
+              }
+            },
+            "hash": "230420_Next_Generation_Summit_for_Good_c_Claudia_Hoehne_047_6cf49aec9d",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 3647.5,
+            "url": "/uploads/230420_Next_Generation_Summit_for_Good_c_Claudia_Hoehne_047_6cf49aec9d.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-17T14:24:37.792Z",
+            "updatedAt": "2023-05-17T14:24:37.792Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "title": "News",
+            "description": "Alle wichtigen Neuigkeiten bei Crowdrecht erfahrt ihr hier!",
+            "createdAt": "2023-02-14T12:21:38.915Z",
+            "updatedAt": "2023-02-14T12:21:39.740Z",
+            "publishedAt": "2023-02-14T12:21:39.732Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 3,
+            "attributes": {
+              "tag": "Crowd",
+              "createdAt": "2023-02-14T10:05:01.272Z",
+              "updatedAt": "2023-02-14T10:05:01.975Z",
+              "publishedAt": "2023-02-14T10:05:01.969Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 13,
+    "attributes": {
+      "title": "Rechtsprechung im Wandel: Wie die Digitalisierung die Justiz verändert",
+      "url": "digitalisierung-justiz-wandel",
+      "description": "Entdecke die Digitalisierung der Justiz: Online-Verfahren, E-Akten und KI-Unterstützung, die Recht und Gerechtigkeit verändern.",
+      "date": "2023-05-08",
+      "createdAt": "2023-05-08T06:59:40.865Z",
+      "updatedAt": "2023-05-08T07:00:56.358Z",
+      "publishedAt": "2023-05-08T06:59:43.442Z",
+      "content": "Die digitale Revolution hat in den letzten Jahren nahezu jeden Bereich unseres Lebens verändert, und auch die Justiz bleibt von dieser Entwicklung nicht unberührt. In diesem Blogbeitrag geben wir einen Überblick über die aktuelle Entwicklung der Digitalisierung im Rechtsbereich, wie zum Beispiel Online-Gerichtsverfahren, elektronische Aktenführung und die Nutzung künstlicher Intelligenz in der Rechtsprechung.\n\n### Online-Gerichtsverfahren: Schneller und effizienter Rechtsschutz\n\nDie Einführung von Online-Gerichtsverfahren hat das Potenzial, die Justiz effizienter, kostengünstiger und zugänglicher zu gestalten. In einigen Ländern wie Großbritannien oder den USA werden bereits Online-Verfahren angeboten, die es ermöglichen, bestimmte Rechtsstreitigkeiten, wie zum Beispiel geringfügige zivilrechtliche Streitigkeiten oder Verkehrsdelikte, vollständig online abzuwickeln. Dadurch können Verfahren schneller durchgeführt werden, und es entfallen lange Wartezeiten und persönliche Gerichtstermine. Auch in Deutschland gibt es erste Pilotprojekte, die den digitalen Zugang zur Justiz erproben.\n\n### Elektronische Aktenführung: Papierlose Justiz\n\nDie elektronische Aktenführung ist ein weiterer Aspekt der Digitalisierung, der den Arbeitsalltag der Justiz nachhaltig verändern kann. Durch den Umstieg auf elektronische Akten können Arbeitsabläufe optimiert und die Effizienz gesteigert werden. Die Vorteile der elektronischen Aktenführung liegen auf der Hand: leichterer Zugriff auf Dokumente, schnellere Kommunikation zwischen den Verfahrensbeteiligten und eine Reduzierung des Papierverbrauchs. In Deutschland wurde die Einführung der elektronischen Gerichtsakte (eAkte) für die Bundesgerichte und die Landesgerichte bereits beschlossen und soll bis 2026 flächendeckend umgesetzt sein.\n\n### Künstliche Intelligenz in der Rechtsprechung: Unterstützung für Richter und Anwälte\n\nKünstliche Intelligenz (KI) hat das Potenzial, die Justiz auf verschiedenen Ebenen zu unterstützen. Beispielsweise können KI-Systeme bei der Recherche von Rechtsprechung und Gesetzestexten eine wertvolle Hilfe für Richter und Anwälte sein. Darüber hinaus können KI-Anwendungen auch bei der Analyse von Beweismitteln und der Vorhersage von Prozessergebnissen eine Rolle spielen. Wichtig ist jedoch, dass KI in der Justiz immer als unterstützendes Werkzeug und nicht als Entscheidungsträger eingesetzt wird, um die Unabhängigkeit und das menschliche Urteilsvermögen der Richter zu wahren.\n\nFazit: Die Digitalisierung bietet viele Chancen für die Justiz, um Effizienz, Zugänglichkeit und Geschwindigkeit zu steigern. Dabei sind jedoch auch Herausforderungen, wie zum Beispiel Datenschutz und IT-Sicherheit, zu berücksichtigen. Die Justiz steht vor der Aufgabe, die Möglichkeiten der Digitalisierung zu nutzen und gleichzeitig die Grundprinzipien der Rechtsstaatlichkeit und Unabhängigkeit der Justiz zu wahren.",
+      "image": {
+        "data": {
+          "id": 94,
+          "attributes": {
+            "name": "Richter mit Hammer",
+            "alternativeText": "Richter mit Hammer",
+            "caption": null,
+            "width": 4592,
+            "height": 3064,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Richter mit Hammer",
+                "hash": "thumbnail_Richter_mit_Hammer_5154bedb08",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 5.97,
+                "url": "/uploads/thumbnail_Richter_mit_Hammer_5154bedb08.jpg"
+              }
+            },
+            "hash": "Richter_mit_Hammer_5154bedb08",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 789.97,
+            "url": "/uploads/Richter_mit_Hammer_5154bedb08.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-08T06:56:06.487Z",
+            "updatedAt": "2023-05-08T06:56:06.487Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "tag": "Klage",
+              "createdAt": "2023-02-14T10:04:47.001Z",
+              "updatedAt": "2023-02-14T10:04:47.682Z",
+              "publishedAt": "2023-02-14T10:04:47.678Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 22,
+    "attributes": {
+      "title": "Arbeitszeiterfassung in deutschen Unternehmen",
+      "url": "herausforderungen-arbeitszeiterfassung",
+      "description": "Arbeitszeiterfassung: Von Stempeluhren bis zu digitalen Lösungen ",
+      "date": "2023-06-04",
+      "createdAt": "2023-06-04T15:06:40.485Z",
+      "updatedAt": "2023-06-04T15:08:30.029Z",
+      "publishedAt": "2023-06-04T15:07:10.714Z",
+      "content": "Seit September 2022 sind Arbeitgeber in Deutschland verpflichtet, die Arbeitszeiten ihrer Beschäftigten zu erfassen. Diese neue Regelung des Bundesarbeitsgerichts (BAG) hat jedoch bisher nur bei 59 % der Unternehmen ihre volle Umsetzung gefunden, wie eine repräsentative Umfrage des Digitalverbands Bitkom zeigt.\n\n### Die Pflicht zur Arbeitszeiterfassung in Deutschland\n\nDie Umfrage ergab, dass ein Drittel der Arbeitgeber (33 %) bereits vor der Entscheidung des BAG die Arbeitszeit erfasst hat, während 26 % danach damit begonnen haben. Weitere 28 % der Unternehmen planen, in diesem Jahr mit der Arbeitszeiterfassung zu beginnen, während 12 % zwar vorhaben, die Arbeitszeit zu erfassen, aber noch keinen konkreten Zeitpunkt festgelegt haben. Insgesamt setzen jedoch alle befragten Unternehmen die neue Vorgabe bereits um oder haben dies in naher Zukunft vor.\n\n### Unterschiedliche Umsetzungsmethoden bei der Arbeitszeiterfassung\n\nBitkom-Präsident Achim Berg äußerte sich zu dieser Entwicklung: \"Die Pflicht zur Arbeitszeiterfassung bedeutet für viele Unternehmen eine große Umstellung. Sie greift tief in die Unternehmenskultur ein, zwingt zu Kontrolle, wo bislang auf Vertrauensbasis gearbeitet wurde, und schafft eine völlig überflüssige Bürokratie.\" Besonders in der digitalen Wirtschaft sei eine auf Flexibilität und Vertrauen basierende Arbeitskultur von großer Bedeutung, um im Angesicht des Fachkräftemangels attraktiv zu bleiben. Berg betonte, dass die Arbeitszeiterfassung dieser Arbeitskultur widerspreche und das Arbeitsrecht grundsätzlich überprüft und reformiert werden sollte.\n\n### Bitkom-Präsident kritisiert die Pflicht zur Arbeitszeiterfassung\n\nDie Umfrage zeigte auch, dass Unternehmen bei der Arbeitszeiterfassung verschiedene Methoden verwenden. Die meisten setzen dabei auf elektronische Systeme, entweder am Computer (28 %) oder per Smartphone-App (17 %). Ein Viertel der Unternehmen (25 %) nutzt traditionelle Stempel- oder Stechuhr-Systeme, während ein Fünftel auf stationäre Zeiterfassungssysteme mit Karte, Chip, Transponder oder Fingerabdruck (22 %) oder Excel-Tabellen (20 %) setzt. Einige Unternehmen (16 %) verwenden sogar noch handschriftliche Stundenzettel.\n\n### Empfehlung: Digitale Lösungen für die Arbeitszeiterfassung nutzen\n\nBerg empfiehlt Unternehmen, bei der Arbeitszeiterfassung auf digitale Lösungen zu setzen, da sie einfach zu bedienen sind und auch im Homeoffice genutzt werden können.\n\n### Zukunftsperspektive: Anpassungen und Ausnahmen in Betracht ziehen\n\nEs bleibt abzuwarten, wie sich die Umsetzung der Arbeitszeiterfassung weiterentwickeln wird und ob mögliche Anpassungen oder Ausnahmen für bestimmte Branchen oder Arbeitsmodelle in Betracht gezogen werden. Die Einführung digitaler Lösungen und eine Überprüfung des Arbeitsrechts im Hinblick auf moderne Arbeitsformen könnten dabei wichtige Schritte sein, um den Bedürfnissen von Unternehmen und Beschäftigten gerecht zu werden.",
+      "image": {
+        "data": {
+          "id": 103,
+          "attributes": {
+            "name": "Arbeitszeiterfassung",
+            "alternativeText": "Arbeitszeiterfassung",
+            "caption": null,
+            "width": 2658,
+            "height": 1772,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Arbeitszeiterfassung",
+                "hash": "thumbnail_Arbeitszeiterfassung_bf4af478d2",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 6.16,
+                "url": "/uploads/thumbnail_Arbeitszeiterfassung_bf4af478d2.jpg"
+              }
+            },
+            "hash": "Arbeitszeiterfassung_bf4af478d2",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 211.53,
+            "url": "/uploads/Arbeitszeiterfassung_bf4af478d2.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-06-04T15:02:23.232Z",
+            "updatedAt": "2023-06-04T15:02:23.232Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 3,
+          "attributes": {
+            "title": "Aktuelle Rechtsprechung",
+            "description": "Wir informieren euch, was höchst aktuell an den deutschen Gerichten entschieden wird.",
+            "createdAt": "2023-03-23T12:12:38.249Z",
+            "updatedAt": "2023-03-23T12:12:42.911Z",
+            "publishedAt": "2023-03-23T12:12:42.909Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 8,
+            "attributes": {
+              "tag": "Arbeitsrecht",
+              "createdAt": "2023-06-04T15:06:56.624Z",
+              "updatedAt": "2023-06-04T15:06:58.684Z",
+              "publishedAt": "2023-06-04T15:06:58.682Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 25,
+    "attributes": {
+      "title": "Unwirksame Provisionsrückzahlungsklausel: BAG-Urteil",
+      "url": "keine-erstattung-personalvermittlungsprovision-arbeitnehmer",
+      "description": "Ein aktuelles Urteil des Bundesarbeitsgerichts wirft Licht auf die Unwirksamkeit der Erstattung einer Personalvermittlungsprovision durch den Arbeitnehmer.",
+      "date": "2023-06-22",
+      "createdAt": "2023-06-22T12:34:18.380Z",
+      "updatedAt": "2023-06-22T12:34:50.671Z",
+      "publishedAt": "2023-06-22T12:34:20.187Z",
+      "content": "Eine arbeitsvertragliche Regelung, nach der der Arbeitnehmer verpflichtet ist, dem Arbeitgeber eine von ihm für das Zustandekommen des Arbeitsvertrags an einen Dritten gezahlte Vermittlungsprovision zu erstatten, wenn der Arbeitnehmer das Arbeitsverhältnis vor Ablauf einer bestimmten Frist beendet, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam. Dies entschied das Bundesarbeitsgericht in seinem Urteil vom 20. Juni 2023 (Aktenzeichen: 1 AZR 265/22).\n\n### Das Urteil des Bundesarbeitsgerichts: Eine unangemessene Benachteiligung des Arbeitnehmers\n\nGemäß § 307 Abs. 1 Satz 1 BGB ist eine Klausel in Allgemeinen Geschäftsbedingungen unwirksam, wenn sie den Vertragspartner des Verwenders entgegen den Geboten von Treu und Glauben unangemessen benachteiligt. In diesem Fall sah das Gericht die Regelung in § 13 des Arbeitsvertrags als unwirksam an, da sie den Arbeitnehmer unangemessen benachteiligte. Insbesondere beeinträchtigte sie das Recht des Arbeitnehmers auf freie Wahl des Arbeitsplatzes, wie es in Artikel 12 Absatz 1 Satz 1 des Grundgesetzes (GG) garantiert wird.\n\n### Verletzung der Arbeitsplatzwahlfreiheit: Beeinträchtigung des Art. 12 Abs. 1 Satz 1 GG\n\nDas Bundesarbeitsgericht stellte fest, dass die Klausel in § 13 des Arbeitsvertrags den Kläger in seinem Recht auf freie Wahl des Arbeitsplatzes beeinträchtigte, ohne dass dies durch begründete Interessen des Arbeitgebers gerechtfertigt wäre. Der Arbeitgeber hat grundsätzlich das unternehmerische Risiko zu tragen, dass sich finanzielle Aufwendungen für die Personalbeschaffung nicht lohnen, wenn der Arbeitnehmer das Arbeitsverhältnis in rechtlich zulässiger Weise beendet. Es besteht daher kein berechtigtes Interesse des Arbeitgebers, solche Kosten auf den Arbeitnehmer zu übertragen. Das Gericht betonte zudem, dass der Arbeitnehmer keinen Vorteil erhielt, der die Beeinträchtigung seiner Arbeitsplatzwahlfreiheit ausgleichen könnte.\n\n### Unternehmerisches Risiko des Arbeitgebers: Kosten der Personalbeschaffung\n\nDas Urteil des Bundesarbeitsgerichts verdeutlicht, dass der Arbeitgeber das unternehmerische Risiko für die Kosten der Personalbeschaffung trägt. Es besteht keine rechtliche Grundlage, den Arbeitnehmer zur Rückzahlung einer Vermittlungsprovision zu verpflichten, wenn dieser das Arbeitsverhältnis in rechtlich zulässiger Weise beendet.\n\n### Fazit: Klare Entscheidung zugunsten der Arbeitsplatzwahlfreiheit\n\nDas Urteil des Bundesarbeitsgerichts stellt klar, dass arbeitsvertragliche Regelungen zur Erstattung von Vermittlungsprovisionen durch den Arbeitnehmer unwirksam sind, wenn sie den Arbeitnehmer unangemessen benachteiligen. Die Arbeitsplatzwahlfreiheit des Arbeitnehmers steht im Vordergrund, und der Arbeit",
+      "image": {
+        "data": {
+          "id": 108,
+          "attributes": {
+            "name": "Person, die Vertrag unterzeichnet",
+            "alternativeText": "Person, die Vertrag unterzeichnet",
+            "caption": null,
+            "width": 6016,
+            "height": 4016,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Person, die Vertrag unterzeichnet",
+                "hash": "thumbnail_Person_die_Vertrag_unterzeichnet_7587ea9ff0",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 5.9,
+                "url": "/uploads/thumbnail_Person_die_Vertrag_unterzeichnet_7587ea9ff0.jpg"
+              }
+            },
+            "hash": "Person_die_Vertrag_unterzeichnet_7587ea9ff0",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 1585.95,
+            "url": "/uploads/Person_die_Vertrag_unterzeichnet_7587ea9ff0.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-06-22T12:31:04.131Z",
+            "updatedAt": "2023-06-22T12:31:04.131Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 3,
+          "attributes": {
+            "title": "Aktuelle Rechtsprechung",
+            "description": "Wir informieren euch, was höchst aktuell an den deutschen Gerichten entschieden wird.",
+            "createdAt": "2023-03-23T12:12:38.249Z",
+            "updatedAt": "2023-03-23T12:12:42.911Z",
+            "publishedAt": "2023-03-23T12:12:42.909Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 8,
+            "attributes": {
+              "tag": "Arbeitsrecht",
+              "createdAt": "2023-06-04T15:06:56.624Z",
+              "updatedAt": "2023-06-04T15:06:58.684Z",
+              "publishedAt": "2023-06-04T15:06:58.682Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 17,
+    "attributes": {
+      "title": "KI in der Rechtsbranche: Potenzial & Herausforderungen",
+      "url": "ki-in-der-rechtsbranche-moeglichkeiten-und-herausforderungen",
+      "description": "Exploration von Künstlicher Intelligenz in der Rechtsbranche: Automatisierung von Prozessen, neue Möglichkeiten und Herausforderungen.",
+      "date": "2023-05-15",
+      "createdAt": "2023-05-15T13:50:55.853Z",
+      "updatedAt": "2023-05-15T13:52:01.287Z",
+      "publishedAt": "2023-05-15T13:50:58.208Z",
+      "content": "### Künstliche Intelligenz und Recht: Eine Einführung\nKünstliche Intelligenz (KI) hat bereits viele Branchen transformiert und die Art und Weise, wie wir arbeiten, leben und spielen, grundlegend verändert. Die Rechtsbranche macht da keine Ausnahme. Mit fortschrittlichen Algorithmen, maschinellem Lernen und Natural Language Processing (NLP) hat KI das Potenzial, die juristische Praxis zu revolutionieren. Doch mit diesen Möglichkeiten kommen auch Herausforderungen.\n\n### Möglichkeiten der KI in der Rechtsbranche\nAutomatisierung von Routineaufgaben\nEine der größten Möglichkeiten der KI in der Rechtsbranche besteht in der Automatisierung von Routineaufgaben. Durch KI können Rechtsberufe zeitaufwändige und repetitive Aufgaben wie die Überprüfung von Verträgen oder die Durchführung von Recherchen automatisieren. Dies kann dazu beitragen, die Effizienz zu steigern, Kosten zu senken und Juristen mehr Zeit für komplexere und wertvollere Aufgaben zu geben.\n\n### Vorhersage von Rechtsentscheidungen\nKI kann auch dazu genutzt werden, Rechtsentscheidungen vorherzusagen. Mit genügend Daten kann eine KI mögliche Muster und Trends in früheren Gerichtsentscheidungen erkennen und Vorhersagen darüber treffen, wie ein Gericht in einem bestimmten Fall entscheiden könnte. Dies kann Juristen helfen, bessere Strategien zu entwickeln und informierte Entscheidungen zu treffen.\n\n### Herausforderungen und ethische Überlegungen\nDatensicherheit und Datenschutz\nDie Nutzung von KI in der Rechtsbranche bringt datenschutzrechtliche Herausforderungen mit sich. Juristen haben eine ethische und rechtliche Verpflichtung, die Vertraulichkeit und Privatsphäre ihrer Klienten zu schützen. Bei der Nutzung von KI müssen sie sicherstellen, dass sie diese Verpflichtungen einhalten und gleichzeitig die Vorteile der Technologie nutzen.\n\n### Verantwortlichkeit und Transparenz\nEine weitere Herausforderung besteht in der Frage der Verantwortlichkeit und Transparenz von KI-Systemen. Es kann schwierig sein, zu verstehen, wie eine KI zu einer bestimmten Entscheidung oder Vorhersage gekommen ist. Dies wirft Fragen der Verantwortlichkeit und Transparenz auf, insbesondere wenn diese Entscheidungen einen erheblichen Einfluss auf das Leben und die Rechte von Menschen haben können.\n\n### Fazit\nDie Künstliche Intelligenz bietet viele Möglichkeiten für die Rechtsbranche, stellt aber auch erhebliche Herausforderungen dar. Juristen müssen diese Herausforderungen erkennen und adressieren, um das volle Potenzial der KI zu nutzen und gleichzeitig ethische und rechtliche Standards zu wahren. Mit der richtigen Balance kann die KI dazu beitragen, die Rechtspraxis zu verbessern und Juristen dabei zu unterstützen, ihren Klienten einen besseren Service zu bieten.",
+      "image": {
+        "data": {
+          "id": 98,
+          "attributes": {
+            "name": "Code über Frau Projiziert",
+            "alternativeText": "Code über Frau Projiziert",
+            "caption": null,
+            "width": 7330,
+            "height": 4889,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Code über Frau Projiziert",
+                "hash": "thumbnail_Code_ueber_Frau_Projiziert_9c5d008a76",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 11.39,
+                "url": "/uploads/thumbnail_Code_ueber_Frau_Projiziert_9c5d008a76.jpg"
+              }
+            },
+            "hash": "Code_ueber_Frau_Projiziert_9c5d008a76",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 7063.78,
+            "url": "/uploads/Code_ueber_Frau_Projiziert_9c5d008a76.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-15T13:47:22.944Z",
+            "updatedAt": "2023-05-15T13:47:22.944Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "tag": "Klage",
+              "createdAt": "2023-02-14T10:04:47.001Z",
+              "updatedAt": "2023-02-14T10:04:47.682Z",
+              "publishedAt": "2023-02-14T10:04:47.678Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 21,
+    "attributes": {
+      "title": "Prozessfinanzierung: Neue Renditenvielfalt für Anleger",
+      "url": "nischenanlageklasse-prozessfinanzierung-anlagespektrum-erweitern",
+      "description": "Prozessfinanzierung: Eine spannende Anlageklasse für diversifizierte Renditen",
+      "date": "2023-05-24",
+      "createdAt": "2023-05-24T14:48:16.628Z",
+      "updatedAt": "2023-05-24T14:49:02.887Z",
+      "publishedAt": "2023-05-24T14:48:18.912Z",
+      "content": "In einer Phase geringen Wachstums wird es immer schwieriger, unkorrelierte Renditen zu erzielen. Anleger suchen daher nach alternativen Anlageklassen, um ihr Portfolio breiter aufzustellen. Eine vielversprechende Option ist die Prozessfinanzierung, eine schnell wachsende Nischenanlageklasse, deren Renditen nicht mit den Kapitalmärkten korrelieren.\n\n### Was ist Prozessfinanzierung?\n\nProzessfinanzierung ist eine Anlageklasse, bei der eine Drittpartei die Kosten für die Durchsetzung von Rechtsansprüchen eines Klägers übernimmt. Im Gegenzug erhält der Finanzierer entweder ein Vielfaches der Kosten oder einen prozentualen Anteil am erstrittenen Betrag. Diese Praxis hat in den letzten Jahren an Popularität gewonnen und ermöglicht es auch kleinen Unternehmen, gegen große Konzerne vor Gericht anzutreten.\n\n### Der Markt für Prozessfinanzierung:\n\nDer Markt für Prozessfinanzierung ist noch weitgehend unerschlossen, bietet jedoch ein hohes Potenzial für Investoren. Laut Angaben sind bisher nur wenige Fälle hart umkämpft, und Hedgefonds und andere Akteure verfügen nicht immer über das erforderliche Fachwissen, um einzelne Fälle zu finanzieren. Es ist daher wichtig, mit erfahrenen Prozessfinanzierern zusammenzuarbeiten, die über ein ausgedehntes Netzwerk, eine nachgewiesene Erfolgsbilanz, Marktzugang und gut strukturierte Abläufe verfügen.\n\n### Vorteile der Prozessfinanzierung:\n\nUnkorrelierte Renditen: Die Renditen aus Prozessfinanzierung sind nicht mit den traditionellen Kapitalmärkten korreliert, was bedeutet, dass sie unabhängig von den Marktbedingungen sein können.\nDiversifizierung: Die Prozessfinanzierung bietet eine Möglichkeit zur Diversifizierung des Portfolios, da sie eine andere Anlageklasse darstellt und nicht den Schwankungen der Aktien- oder Anleihemärkte unterliegt.\nStabile Renditen: Prozessfinanzierung kann attraktive und stabile Renditen bieten, insbesondere wenn sie von erfahrenen Finanzierern mit gut strukturierten Abläufen durchgeführt wird.\nRisiken und Vorsichtsmaßnahmen:\nBei der Prozessfinanzierung ist eine sorgfältige Auswahl der Finanzierer und eine Diversifizierung der Investitionen wichtig. Die Verteilung der Renditen kann leptokurtisch sein, was bedeutet, dass es sowohl höhere als auch niedrigere Renditen geben kann. Es ist ratsam, mit erfahrenen Rechtsberatern zusammenzuarbeiten, um potenzielle rechtliche Risiken zu identifizieren und zu minimieren.\n\n### Fazit:\nProzessfinanzierung bietet Anlegern die Möglichkeit, ihr Anlagespektrum zu erweitern und unkorrelierte Renditen zu erzielen. Diese schnell wachsende Anlageklasse hat das Potenzial, attraktive und stabile Renditen zu bieten, wenn sie sorgfältig umgesetzt wird. Es ist jedoch wichtig, mit erfahrenen Finanzierern und Rechtsberatern zusammenzuarbeiten, um potenzielle Risiken zu minimieren. Insgesamt kann Prozessfinanzierung eine interessante Ergänzung für Anleger sein, die nach diversifizierten Anlagechancen suchen.",
+      "image": {
+        "data": {
+          "id": 102,
+          "attributes": {
+            "name": "Geld Planung Finanzierung Prozesskosten",
+            "alternativeText": "Geld Planung Finanzierung Prozesskosten",
+            "caption": null,
+            "width": 5472,
+            "height": 3648,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Geld Planung Finanzierung Prozesskosten",
+                "hash": "thumbnail_Geld_Planung_Finanzierung_Prozesskosten_dd0266fdc1",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 7.18,
+                "url": "/uploads/thumbnail_Geld_Planung_Finanzierung_Prozesskosten_dd0266fdc1.jpg"
+              }
+            },
+            "hash": "Geld_Planung_Finanzierung_Prozesskosten_dd0266fdc1",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 1409.39,
+            "url": "/uploads/Geld_Planung_Finanzierung_Prozesskosten_dd0266fdc1.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-24T14:46:06.004Z",
+            "updatedAt": "2023-05-24T14:46:06.004Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 4,
+            "attributes": {
+              "tag": "Investment",
+              "createdAt": "2023-02-14T10:05:15.875Z",
+              "updatedAt": "2023-02-14T10:05:16.520Z",
+              "publishedAt": "2023-02-14T10:05:16.514Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 16,
+    "attributes": {
+      "title": "Quarantäne im Urlaub: Verlorene Urlaubstage oder nicht?",
+      "url": "quarantäne-und-urlaubsanspruch-eugh-entscheidung",
+      "description": "EuGH-Analyse: Gilt bezahlter Urlaub während Quarantäne als verbraucht? Eine Untersuchung des Sachverhalts und mögliche Auswirkungen.",
+      "date": "2023-05-13",
+      "createdAt": "2023-05-13T07:13:00.960Z",
+      "updatedAt": "2023-05-13T07:13:02.952Z",
+      "publishedAt": "2023-05-13T07:13:02.948Z",
+      "content": "### Der konkrete Fall\nStell dir vor, du hast deinen wohlverdienten Urlaub geplant und dann trifft dich eine behördliche Quarantäne-Anordnung aufgrund eines Kontakts mit einer Person, die mit dem SARS-CoV‑2-Virus infiziert ist. Sind diese Urlaubstage dann verloren? Diese Frage wurde kürzlich vom Generalanwalt am Europäischen Gerichtshof (EuGH) in den Schlussanträgen vom 4. Mai 2023 (EuGH, C-206/22) beleuchtet.\n\n### Die Klage und der Standpunkt des Arbeitsgerichts\nUm die Lage besser zu verstehen, schauen wir uns den konkreten Fall an: TF, ein Angestellter der Sparkasse Südpfalz, hatte für den Zeitraum vom 3. bis zum 11. Dezember 2020 Urlaub genehmigt bekommen. Am 2. Dezember 2020 ordnete die Kreisverwaltung Germersheim für TF eine Quarantäne an, die bis zum 11. Dezember 2020 gelten sollte. TF verlangte anschließend die Gutschrift des bezahlten Jahresurlaubs für den Quarantäne-Zeitraum, was von der Sparkasse abgelehnt wurde.\n\nDas Arbeitsgericht Ludwigshafen am Rhein, wo TF Klage erhob, stellte klar, dass nach herrschender Auffassung der deutschen Gerichte in solchen Fällen kein Anspruch auf Nichtanrechnung des Urlaubs besteht. Dabei wurde auf § 1 BUrIG verwiesen, der lediglich die Freistellung von der Arbeitspflicht und die Zahlung des Urlaubsentgelts regelt. Alle nachträglichen störenden Ereignisse fallen demnach in den Risikobereich des Arbeitnehmers, sofern der Arbeitnehmer nicht arbeitsunfähig ist.\n\n### Die Vorabentscheidungsfrage an den EuGH\nDas Arbeitsgericht hat jedoch Zweifel, ob diese Auslegung mit Art. 7 Abs. 1 der Richtlinie 2003/88 und Art. 31 Abs. 2 der EU-Charta vereinbar ist. Daher hat es das Verfahren ausgesetzt und dem EuGH eine Vorabentscheidungsfrage vorgelegt.\n\n### Die Schlussanträge des Generalanwalts und die Rechtslage seit September 2022\nIn seinen Schlussanträgen kommt der Generalanwalt zu dem Schluss, dass das Unionsrecht nicht vorschreibt, dass bezahlter Jahresurlaub, der mit einer Quarantäne zusammenfällt, verschoben wird. Dies steht also nicht im Widerspruch zu nationalen Rechtsvorschriften oder Gepflogenheiten, die keinen Verschiebungsanspruch vorsehen, wenn der Urlaub mit einer behördlich angeordneten Quarantäne kollidiert.\n\nEs ist jedoch wichtig zu erwähnen, dass dieser Fall die Rechtslage vor der Änderung des § 59 IfSG betrifft. Seit dem 17. September 2022 gilt, dass Quarantänetage während des Urlaubs nicht auf den Jahresurlaub angerechnet werden.\n\n### Abschlussbemerkung\nDieser Fall zeigt einmal mehr, wie komplex und vielschichtig die rechtlichen Fragen rund um die Pandemie und ihre Auswirkungen auf das Arbeitsleben sein können. Während die Frage der Anrechnung von Quarantäne-Zeiten auf den Urlaub in Deutschland mittlerweile durch die Gesetzesänderung geklärt ist, wirft der Fall dennoch interessante Fragen zur Auslegung des Unionsrechts auf. Es bleibt abzuwarten, wie der EuGH in seiner endgültigen Entscheidung diese Fragen beantworten wird.",
+      "image": {
+        "data": {
+          "id": 97,
+          "attributes": {
+            "name": "Gelber Miniatur Van Aus Druckguss Auf Braunem Sand",
+            "alternativeText": "Gelber Miniatur Van Aus Druckguss Auf Braunem Sand",
+            "caption": null,
+            "width": 5184,
+            "height": 3456,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Gelber Miniatur Van Aus Druckguss Auf Braunem Sand",
+                "hash": "thumbnail_Gelber_Miniatur_Van_Aus_Druckguss_Auf_Braunem_Sand_102fcdff56",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 4.52,
+                "url": "/uploads/thumbnail_Gelber_Miniatur_Van_Aus_Druckguss_Auf_Braunem_Sand_102fcdff56.jpg"
+              }
+            },
+            "hash": "Gelber_Miniatur_Van_Aus_Druckguss_Auf_Braunem_Sand_102fcdff56",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 2203.49,
+            "url": "/uploads/Gelber_Miniatur_Van_Aus_Druckguss_Auf_Braunem_Sand_102fcdff56.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-13T07:08:22.769Z",
+            "updatedAt": "2023-05-13T07:10:54.933Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 3,
+          "attributes": {
+            "title": "Aktuelle Rechtsprechung",
+            "description": "Wir informieren euch, was höchst aktuell an den deutschen Gerichten entschieden wird.",
+            "createdAt": "2023-03-23T12:12:38.249Z",
+            "updatedAt": "2023-03-23T12:12:42.911Z",
+            "publishedAt": "2023-03-23T12:12:42.909Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "tag": "Klage",
+              "createdAt": "2023-02-14T10:04:47.001Z",
+              "updatedAt": "2023-02-14T10:04:47.682Z",
+              "publishedAt": "2023-02-14T10:04:47.678Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 20,
+    "attributes": {
+      "title": "Rechtsschutzversicherung vs. Crowdrecht: Eine Alternative zum traditionellen Rechtsschutz",
+      "url": "rechtsschutzversicherungen-was-sie-abdecken-und-wie-sie-uns-schuetzen",
+      "description": "Erfahre, wie Rechtsschutzversicherungen dich umfassend absichern und Kostenrisiken mindern können.",
+      "date": "2023-05-23",
+      "createdAt": "2023-05-23T11:19:44.001Z",
+      "updatedAt": "2023-05-23T13:06:33.547Z",
+      "publishedAt": "2023-05-23T11:19:45.853Z",
+      "content": "Rechtsschutzversicherungen sind ein wichtiger Bestandteil unserer Absicherung in rechtlichen Belangen. Sie bieten finanzielle Unterstützung und professionelle Beratung, um unsere Rechte wirksam verteidigen zu können. In diesem Blogbeitrag möchten wir einen genauen Blick auf Rechtsschutzversicherungen werfen, ihre verschiedenen Arten, den Leistungsumfang und den Schutz, den sie uns bieten.\n\n### Was sind Rechtsschutzversicherungen?\n\nRechtsschutzversicherungen sind Versicherungsverträge, die den Versicherten in rechtlichen Auseinandersetzungen finanziell und rechtlich absichern. Sie dienen dazu, die Kosten für Anwälte, Gerichtsverfahren, Gutachter und andere juristische Leistungen zu decken. Rechtsschutzversicherungen gibt es in unterschiedlichen Arten, je nach den individuellen Bedürfnissen und Rechtsbereichen.\n\n### Arten von Rechtsschutzversicherungen:\n\nRechtsschutzversicherungen bieten verschiedene Arten von Schutz für unterschiedliche Bereiche an. Eine wichtige Art ist der Privatrechtsschutz, der rechtliche Streitigkeiten im privaten Bereich abdeckt, wie zum Beispiel Miet-, Nachbarschafts- oder Kaufrechtsangelegenheiten. Der Berufsrechtsschutz hingegen bietet Schutz für Arbeitnehmer in arbeitsrechtlichen Streitigkeiten, wie Kündigungsschutzklagen oder Gehaltsstreitigkeiten. Für Verkehrsunfälle, Bußgeldverfahren und Führerscheinangelegenheiten gibt es den Verkehrsrechtsschutz. Und schließlich gibt es den Strafrechtsschutz, der bei strafrechtlichen Angelegenheiten hilft, wie falschen Anschuldigungen oder Strafbefehlen. Mit einer Rechtsschutzversicherung kann man sich in verschiedenen Rechtsbereichen absichern und rechtlichen Beistand erhalten, wenn es erforderlich ist.\n\n### Leistungsumfang einer Rechtsschutzversicherung:\n\nRechtsschutzversicherungen bieten zahlreiche Vorteile, darunter der Zugang zu qualifizierten Rechtsanwälten, die bei rechtlichen Fragen und Problemen kompetente Beratung bieten. Zudem übernehmen diese Versicherungen die Kosten für Anwälte, Gerichtsverfahren, Gutachter und andere damit verbundene Ausgaben. Der Umfang der Kostenübernahme richtet sich nach der vereinbarten Versicherungssumme, und es kann eine Selbstbeteiligung vereinbart werden, bei der der Versicherte einen Teil der Kosten selbst trägt. Mit einer Rechtsschutzversicherung ist man finanziell abgesichert und kann rechtliche Unterstützung in Anspruch nehmen, wenn sie benötigt wird.\n\n### Nachteile der Rechtsschutzversicherung:\n\nTrotz ihrer Vorteile gibt es auch einige Nachteile, die mit einer Rechtsschutzversicherung einhergehen. Zum einen können Versicherungsansprüche abgelehnt werden, wenn es sich um Fälle mit niedrigem Streitwert handelt oder wenn die Versicherungsgesellschaft die Wirtschaftlichkeit des Falles in Frage stellt. Zudem können bestimmte Rechtsbereiche oder bereits bestehende Konflikte von der Deckung ausgeschlossen werden. Darüber hinaus haben Versicherte möglicherweise keine freie Wahl des Anwalts und sind auf die Anwälte beschränkt, die von der Versicherungsgesellschaft empfohlen werden.\n\n### Crowdrecht als Alternative:\n\nEine innovative Alternative zum traditionellen Rechtsschutz bietet Crowdrecht. Mit Crowdrecht hat man die Möglichkeit, finanzielle Unterstützung und professionelle Beratung von unserer Plattform zu erhalten. Wir setzen auf die Kraft der Gemeinschaft und ermöglichen es Menschen, ihre Rechtsstreitigkeiten zu finanzieren und gemeinsam als Gruppe für ihre Rechte einzustehen. Mit Crowdrecht hat man volle Kontrolle über den Fall und kann selbst entscheiden, welchen Anwalt man wählen möchten. Zudem profitiert man von transparenten Kosten und einer unabhängigen Unterstützungsgemeinschaft. Crowdrecht bietet eine moderne, effektive und solidarische Lösung für den Zugang zum Rechtssystem.\n\n### Fazit:\n\nRechtsschutzversicherungen sind eine bewährte Möglichkeit, um sich in rechtlichen Belangen abzusichern. Sie bieten finanzielle Unterstützung und professionelle Beratung. Jedoch sind sie nicht ohne Nachteile, wie Einschränkungen bei der Anwaltsauswahl und mögliche Ablehnungen von Versicherungsansprüchen. Crowdrecht stellt eine spannende Alternative dar, bei der Menschen gemeinsam für ihre Rechte eintreten und finanzielle Unterstützung erhalten können. Es lohnt sich, die Vor- und Nachteile beider Optionen abzuwägen und die individuell beste Lösung für sich zu finden.",
+      "image": {
+        "data": {
+          "id": 101,
+          "attributes": {
+            "name": "Ernte Geschäftsmann, Der Vertrag Zur Frau Gibt, Um Zu Unterzeichnen",
+            "alternativeText": "Ernte Geschäftsmann, Der Vertrag Zur Frau Gibt, Um Zu Unterzeichnen",
+            "caption": null,
+            "width": 6000,
+            "height": 4000,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Ernte Geschäftsmann, Der Vertrag Zur Frau Gibt, Um Zu Unterzeichnen",
+                "hash": "thumbnail_Ernte_Geschaeftsmann_Der_Vertrag_Zur_Frau_Gibt_Um_Zu_Unterzeichnen_d3f48b5466",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 5.1,
+                "url": "/uploads/thumbnail_Ernte_Geschaeftsmann_Der_Vertrag_Zur_Frau_Gibt_Um_Zu_Unterzeichnen_d3f48b5466.jpg"
+              }
+            },
+            "hash": "Ernte_Geschaeftsmann_Der_Vertrag_Zur_Frau_Gibt_Um_Zu_Unterzeichnen_d3f48b5466",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 792.11,
+            "url": "/uploads/Ernte_Geschaeftsmann_Der_Vertrag_Zur_Frau_Gibt_Um_Zu_Unterzeichnen_d3f48b5466.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-23T11:12:20.640Z",
+            "updatedAt": "2023-05-23T11:12:20.640Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 2,
+            "attributes": {
+              "tag": "Kosten",
+              "createdAt": "2023-02-14T10:04:53.737Z",
+              "updatedAt": "2023-02-14T10:04:54.484Z",
+              "publishedAt": "2023-02-14T10:04:54.478Z"
+            }
+          },
+          {
+            "id": 1,
+            "attributes": {
+              "tag": "Klage",
+              "createdAt": "2023-02-14T10:04:47.001Z",
+              "updatedAt": "2023-02-14T10:04:47.682Z",
+              "publishedAt": "2023-02-14T10:04:47.678Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 18,
+    "attributes": {
+      "title": "Die Regulierung von Crowdinvesting in Deutschland",
+      "url": "regulierung-crowdinvesting-deutschland-leitfaden",
+      "description": "Übersicht zur Regulierung von Crowdinvesting in Deutschland und deren rechtlichen Rahmen.",
+      "date": "2023-05-16",
+      "createdAt": "2023-05-16T08:26:27.505Z",
+      "updatedAt": "2023-05-16T08:27:00.184Z",
+      "publishedAt": "2023-05-16T08:26:29.446Z",
+      "content": "Crowdinvesting hat sich in den letzten Jahren zu einer populären Methode der Kapitalbeschaffung für Unternehmen in Deutschland entwickelt. Diese Finanzierungsform ermöglicht es privaten Anlegern, direkt in Start-ups und Kleinunternehmen zu investieren, die sie sonst nicht erreichen könnten. Doch wie bei jeder Art von Finanztransaktion gibt es auch hier Regulierungen, die Anleger und Unternehmen schützen sollen. Dieser Artikel wirft einen Blick auf die Regulierung von Crowdinvesting in Deutschland.\n\n### Was ist Crowdinvesting?\nCrowdinvesting, auch als Schwarmfinanzierung bekannt, ist eine Art von Crowdfunding, bei dem Einzelpersonen oder Institutionen in ein Unternehmen investieren und im Gegenzug Eigenkapitalanteile erhalten. Im Gegensatz zu traditionellen Investitionsmethoden, die oft nur für vermögende oder institutionelle Anleger zugänglich sind, ermöglicht Crowdinvesting eine breitere Beteiligung und eröffnet Unternehmen den Zugang zu einem größeren Kapitalpool.\n\n### Die Regulierung von Crowdinvesting in Deutschland\nDie Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ist die Aufsichtsbehörde, die für die Regulierung des Crowdinvestings in Deutschland zuständig ist. Sie hat eine Reihe von Vorschriften erlassen, um Anleger zu schützen und die Integrität dieses wachsenden Marktes zu gewährleisten.\n\n### Informationspflichten\nUnternehmen, die durch Crowdinvesting Kapital aufnehmen, sind in Deutschland verpflichtet, einen Verkaufsprospekt zu erstellen, der von der BaFin genehmigt werden muss. Dieser Prospekt muss detaillierte Informationen über das Unternehmen, sein Geschäftsmodell und die vorgesehene Verwendung der aufgenommenen Gelder enthalten. Diese Regel soll sicherstellen, dass Anleger alle notwendigen Informationen haben, um eine fundierte Entscheidung treffen zu können.\n\n### Kapitalgrenzen\nIn Deutschland gibt es auch eine Obergrenze für die Menge an Kapital, die ein Unternehmen durch Crowdinvesting aufnehmen kann. Derzeit liegt diese Grenze bei 8 Millionen Euro. Diese Regel dient dazu, das Risiko für Anleger zu begrenzen und sicherzustellen, dass Unternehmen nicht zu stark von dieser Form der Finanzierung abhängig sind.\n\n### Anlegerschutz\nDeutschland hat auch strenge Regeln zum Schutz der Anleger eingeführt. Dazu gehören unter anderem eine Pflicht zur Risikoaufklärung und Begrenzungen für die Höhe der Investitionen von Kleinanlegern. Diese Maßnahmen sollen dazu beitragen, Anleger vor übermäßigen Verlusten zu schützen.\n\n### Fazit\nDie Regulierung von Crowdinvesting in Deutschland ist ein komplexes Feld, das sowohl Anleger als auch Unternehmen beachten müssen. Es ist entscheidend, dass sich Unternehmen, die Crowdinvesting in Betracht ziehen, über die geltenden Regulierungen informieren und sicherstellen, dass sie diese einhalten. Gleichzeitig sollten Anleger die Risiken verstehen und sicherstellen, dass sie mit den Informationen, die sie erhalten, eine fundierte Entscheidung.",
+      "image": {
+        "data": {
+          "id": 99,
+          "attributes": {
+            "name": "Vorhangglasgebäude",
+            "alternativeText": "Vorhangglasgebäude",
+            "caption": null,
+            "width": 5184,
+            "height": 3456,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Vorhangglasgebäude",
+                "hash": "thumbnail_Vorhangglasgebaeude_3810feead3",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 9.7,
+                "url": "/uploads/thumbnail_Vorhangglasgebaeude_3810feead3.jpg"
+              }
+            },
+            "hash": "Vorhangglasgebaeude_3810feead3",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 3799.33,
+            "url": "/uploads/Vorhangglasgebaeude_3810feead3.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-16T08:22:50.319Z",
+            "updatedAt": "2023-05-16T08:22:50.319Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 4,
+            "attributes": {
+              "tag": "Investment",
+              "createdAt": "2023-02-14T10:05:15.875Z",
+              "updatedAt": "2023-02-14T10:05:16.520Z",
+              "publishedAt": "2023-02-14T10:05:16.514Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 14,
+    "attributes": {
+      "title": "Crowdinvesting: Diversifizierung und Risikominimierung",
+      "url": "risikomanagement-beim-crowdinvesting-diversifizierung",
+      "description": "Lerne, wie du beim Crowdinvesting dein Portfolio diversifizierst und Risiken minimierst – entdecke Tipps und Strategien in unserem Blogbeitrag!",
+      "date": "2023-05-09",
+      "createdAt": "2023-05-09T05:49:18.624Z",
+      "updatedAt": "2023-05-09T05:50:51.497Z",
+      "publishedAt": "2023-05-09T05:49:21.898Z",
+      "content": "Crowdinvesting hat sich in den letzten Jahren zu einer beliebten Anlageform entwickelt, die es Anlegern ermöglicht, in innovative Projekte und Unternehmen zu investieren. Allerdings birgt auch das Crowdinvesting Risiken. In diesem Blogbeitrag möchten wir Tipps und Strategien vorstellen, wie Anleger ihr Portfolio diversifizieren und Risiken minimieren können.\n\n### Verstehen der Risiken beim Crowdinvesting\nBevor man in Crowdinvesting-Projekte investiert, ist es wichtig, die damit verbundenen Risiken zu verstehen. Dazu gehören beispielsweise das Ausfallrisiko, das Liquiditätsrisiko und das Markt- und Branchenrisiko. Ein umfassendes Verständnis dieser Risiken hilft Anlegern dabei, informierte Entscheidungen zu treffen und ihr Portfolio besser abzusichern.\n\n### Diversifikation über verschiedene Projekte und Branchen\nEine der effektivsten Strategien zur Risikominimierung ist die Diversifikation. Indem man in verschiedene Projekte und Branchen investiert, kann man das Risiko verteilen und die Wahrscheinlichkeit von Verlusten verringern. Anleger sollten darauf achten, ihr Portfolio nicht zu sehr auf eine einzelne Branche oder ein bestimmtes Projekt zu konzentrieren, sondern eine breite Streuung anzustreben.\n\n### Diversifikation über verschiedene Anlageformen\nAuch die Diversifikation über verschiedene Anlageformen kann dazu beitragen, das Risiko zu reduzieren. Crowdinvesting-Plattformen bieten häufig unterschiedliche Anlageformen an, wie beispielsweise partiarische Darlehen, stille Beteiligungen oder Genussrechte. Durch die Verteilung der Investitionen auf verschiedene Anlageformen können Anleger ihr Risiko weiter streuen.\n\n### Verwendung von Risikomanagement-Tools\nEinige Crowdinvesting-Plattformen bieten Risikomanagement-Tools an, die Anlegern dabei helfen können, ihr Portfolio besser zu steuern. Solche Tools können beispielsweise eine Risikobewertung der einzelnen Projekte vornehmen und auf dieser Grundlage Empfehlungen für die Diversifikation geben. Anleger sollten sich über die auf der jeweiligen Plattform verfügbaren Tools informieren und diese gegebenenfalls nutzen.\n\n### Regelmäßige Überprüfung und Anpassung des Portfolios\nUm ein ausgewogenes und diversifiziertes Portfolio aufrechtzuerhalten, ist es wichtig, regelmäßig die Zusammensetzung und Performance der Investitionen zu überprüfen. Anleger sollten bereit sein, gegebenenfalls Anpassungen vorzunehmen, um ihr Portfolio an veränderte Marktbedingungen oder persönliche Anlageziele anzupassen.\n\n### Fazit\nRisikomanagement ist ein wichtiger Aspekt beim Crowdinvesting. Durch die Diversifikation über verschiedene Projekte, Branchen und Anlageformen, die Nutzung von Risikomanagement-Tools und die regelmäßige Überprüfung des Portfolios können Anleger ihre Investitionen besser absichern und das Risiko von Verlusten minimieren. Dennoch sollten sich Anleger stets bewusst sein, dass Investments in Crowdinvesting-Projekte immer mit einem gewissen Risiko verbunden sind und man sollte nur Geld investieren, das man im Falle eines Verlusts verschmerzen kann.",
+      "image": {
+        "data": {
+          "id": 95,
+          "attributes": {
+            "name": "Banknoten",
+            "alternativeText": "Banknoten",
+            "caption": null,
+            "width": 5472,
+            "height": 3648,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Banknoten",
+                "hash": "thumbnail_Banknoten_b832878422",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 10.4,
+                "url": "/uploads/thumbnail_Banknoten_b832878422.jpg"
+              }
+            },
+            "hash": "Banknoten_b832878422",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 3132.58,
+            "url": "/uploads/Banknoten_b832878422.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-09T05:39:24.807Z",
+            "updatedAt": "2023-05-09T05:39:24.807Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 4,
+            "attributes": {
+              "tag": "Investment",
+              "createdAt": "2023-02-14T10:05:15.875Z",
+              "updatedAt": "2023-02-14T10:05:16.520Z",
+              "publishedAt": "2023-02-14T10:05:16.514Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 23,
+    "attributes": {
+      "title": "Crowdrecht als Finalist beim Social Impact Award",
+      "url": "social-impact-award-2023-finale",
+      "description": "Erfahre mehr über unsere Teilnahme am Social Impact Award 2023 und wie wir positive soziale Veränderungen vorantreiben.",
+      "date": "2023-06-11",
+      "createdAt": "2023-06-11T13:56:53.837Z",
+      "updatedAt": "2023-06-11T13:57:35.503Z",
+      "publishedAt": "2023-06-11T13:57:35.499Z",
+      "content": "Wir wurden vom Social Impact Award auserwählt! Diese Anerkennung ist ein weiterer Meilenstein auf unserer Mission, sozialen Wandel durch innovative Lösungen im Rechtsbereich zu fördern. Im Rahmen des Inkubators 2023 nehmen wir nun an einem dreimonatigen Bootcamp teil, in dem wir unser Projekt weiterentwickeln und wertvolle Unterstützung erhalten werden.\n\n### Über den Social Impact Award:\nDer Social Impact Award ist eine führende Plattform für sozial unternehmerische Initiativen. Er fördert Ideen und Projekte, die positive Veränderungen in der Gesellschaft bewirken möchten. Der Award bietet den Teilnehmern eine einzigartige Gelegenheit, ihre sozialen Innovationen zu präsentieren und von einem erfahrenen Netzwerk aus Mentoren und Experten zu lernen.\n\n### Unsere Teilnahme und Freude:\nAls Finalist beim Social Impact Award sind wir stolz darauf, dass Crowdrecht für seine Bemühungen um sozialen Wandel im Rechtsbereich anerkannt wurde. Wir glauben fest daran, dass der Zugang zum Recht und die Finanzierung von Rechtsstreitigkeiten gerechter gestaltet werden müssen. Unsere Plattform ermöglicht es Menschen, ihre Rechtsansprüche durch Crowdfunding zu finanzieren und so ihr Recht auf Gerechtigkeit zu verwirklichen.\n\n### Das Bootcamp:\nWährend des dreimonatigen Bootcamps werden wir die Möglichkeit haben, unser Projekt weiterzuentwickeln und von den Erfahrungen und dem Wissen von Experten und Mentoren zu profitieren. In den monatlichen Bootcamp-Sitzungen werden wir uns intensiv mit verschiedenen Aspekten der sozialen Unternehmensführung, Geschäftsmodellentwicklung und Skalierbarkeit auseinandersetzen. Wir sind gespannt auf den Austausch mit den anderen Finalisten und auf die wertvollen Einblicke, die wir gewinnen werden.\n\n### Unser Engagement für sozialen Wandel:\nBei Crowdrecht geht es nicht nur darum, eine erfolgreiche Geschäftsidee zu entwickeln, sondern auch um den Beitrag zur positiven Veränderung in der Gesellschaft. Wir sind fest davon überzeugt, dass der Zugang zum Recht für alle Menschen gewährleistet sein sollte, unabhängig von ihrer finanziellen Situation. Durch die Unterstützung von Menschen bei der Finanzierung ihrer Rechtsstreitigkeiten möchten wir eine gerechtere und zugänglichere Rechtslandschaft schaffen.\n\n### Ausblick:\nWir sind begeistert, Teil des Social Impact Award Inkubators 2023 zu sein und freuen uns auf die kommenden Monate des Bootcamps. Diese Erfahrung wird uns dabei helfen, unser Projekt weiterzuentwickeln und unsere Vision eines gerechteren Rechtssystems zu verwirklichen. Wir bedanken uns beim Social Impact Award für diese wertvolle Gelegenheit und bei allen, die uns auf diesem Weg unterstützen!",
+      "image": {
+        "data": {
+          "id": 104,
+          "attributes": {
+            "name": "logo-2x2-1.webp",
+            "alternativeText": null,
+            "caption": null,
+            "width": 731,
+            "height": 252,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_logo-2x2-1.webp",
+                "hash": "thumbnail_logo_2x2_1_74d52943af",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "path": null,
+                "width": 245,
+                "height": 84,
+                "size": 4.16,
+                "url": "/uploads/thumbnail_logo_2x2_1_74d52943af.webp"
+              }
+            },
+            "hash": "logo_2x2_1_74d52943af",
+            "ext": ".webp",
+            "mime": "image/webp",
+            "size": 4.72,
+            "url": "/uploads/logo_2x2_1_74d52943af.webp",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-06-11T13:53:17.330Z",
+            "updatedAt": "2023-06-11T13:53:17.330Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "title": "News",
+            "description": "Alle wichtigen Neuigkeiten bei Crowdrecht erfahrt ihr hier!",
+            "createdAt": "2023-02-14T12:21:38.915Z",
+            "updatedAt": "2023-02-14T12:21:39.740Z",
+            "publishedAt": "2023-02-14T12:21:39.732Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 9,
+            "attributes": {
+              "tag": "Startup",
+              "createdAt": "2023-06-11T13:57:06.334Z",
+              "updatedAt": "2023-06-11T13:57:41.765Z",
+              "publishedAt": "2023-06-11T13:57:41.763Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 11,
+    "attributes": {
+      "title": "Unterstützt Crowdrecht beim futureSAX-Publikumspreis 2023",
+      "url": "stimmt-fuer-uns-beim-futuresax-publikumspreis-2023",
+      "description": "Stimmt für Crowdrecht beim futureSAX-Publikumspreis 2023 ab! Als Nominierte freuen wir uns, euch am 4. Juli bei der Innovationskonferenz zu sehen.",
+      "date": "2023-04-24",
+      "createdAt": "2023-04-24T18:41:29.394Z",
+      "updatedAt": "2023-04-24T18:49:46.668Z",
+      "publishedAt": "2023-04-24T18:41:31.869Z",
+      "content": "Wir freuen uns riesig, dass unser Startup für den futureSAX-Publikumspreis des Sächsischen Gründerpreises 2023 nominiert wurde!\nEin großes Dankeschön an alle, die uns auf diesem spannenden Weg unterstützt haben und uns die Möglichkeit geben, bei diesem prestigeträchtigen Wettbewerb dabei zu sein.\n\n### Abstimmen und \"Sieger der Herzen\" wählen\nVom 20. April bis zum 31. Mai 2023 habt ihr die Chance, eure Stimme für uns abzugeben und uns zum \"Sieger der Herzen\" zu wählen. Der Gewinner dieses Publikumspreises kann sich über einen attraktiven Preis freuen, der in diesem Jahr erneut von der Novaled GmbH aus Dresden gesponsert wird.\n\n### Crowdrecht beim futureSAX-Showcase\nAlle Teilnehmenden der Wettbewerbe dürfen ihre Geschäftsidee im Rahmen der Sächsischen Innovationskonferenz ausstellen. Wir freuen uns darauf, euch dort persönlich zu treffen und unsere Vision für Crowdrecht zu präsentieren.\n\n### Save the Date: Sächsische Innovationskonferenz\nDie Bekanntgabe der Gewinner findet bei der Sächsischen Innovationskonferenz am 4. Juli 2023 statt. Wir sind schon jetzt voller Vorfreude und können es kaum erwarten, die Ergebnisse zu erfahren!\n\n### Dankeschön und gemeinsam zum Ziel\nWir möchten diese Gelegenheit nutzen, um jedem Einzelnen von euch zu danken, der uns auf unserer Reise begleitet hat. Eure Unterstützung bedeutet uns mehr, als wir in Worte fassen können. Wenn ihr uns dabei helfen möchtet, den futureSAX-Publikumspreis des Sächsischen Gründerpreises 2023 zu gewinnen, stimmt bitte für uns ab und teilt unseren Aufruf mit euren Freunden und Verwandten.\n\nJede einzelne Stimme zählt und bringt uns einen Schritt näher an unseren Traum, diesen Preis zu erhalten. Wir sind dankbar für eure Unterstützung und können es kaum erwarten, weiterhin gemeinsam mit euch an der Verwirklichung unserer Vision zu arbeiten.\n\nVielen Dank für eure Stimmen, eure Unterstützung und wir hoffen, euch beim futureSAX-Showcase zu sehen!\n\nHier gehts zur Abstimmung:\nhttps://www.futuresax.de/gruenden/saechsischer-gruenderpreis/publikumspreis-des-saechsischen-gruenderpreises-2023?voting-id=1103",
+      "image": {
+        "data": {
+          "id": 86,
+          "attributes": {
+            "name": "futureSAX Showcase",
+            "alternativeText": "futureSAX Showcase",
+            "caption": null,
+            "width": 1920,
+            "height": 1080,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_futureSAX Showcase",
+                "hash": "thumbnail_future_SAX_Showcase_8aef595892",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 53.33,
+                "url": "/uploads/thumbnail_future_SAX_Showcase_8aef595892.png"
+              }
+            },
+            "hash": "future_SAX_Showcase_8aef595892",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 1161.39,
+            "url": "/uploads/future_SAX_Showcase_8aef595892.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-04-24T18:38:45.511Z",
+            "updatedAt": "2023-04-24T18:38:45.511Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "title": "News",
+            "description": "Alle wichtigen Neuigkeiten bei Crowdrecht erfahrt ihr hier!",
+            "createdAt": "2023-02-14T12:21:38.915Z",
+            "updatedAt": "2023-02-14T12:21:39.740Z",
+            "publishedAt": "2023-02-14T12:21:39.732Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 3,
+            "attributes": {
+              "tag": "Crowd",
+              "createdAt": "2023-02-14T10:05:01.272Z",
+              "updatedAt": "2023-02-14T10:05:01.975Z",
+              "publishedAt": "2023-02-14T10:05:01.969Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 26,
+    "attributes": {
+      "title": "Verträge genau prüfen und verstehen",
+      "url": "vertraege-pruefen-verstehen",
+      "description": "Warum es wichtig ist, Verträge genau zu prüfen und zu verstehen.",
+      "date": "2023-06-27",
+      "createdAt": "2023-06-27T13:18:15.493Z",
+      "updatedAt": "2023-06-27T13:18:17.173Z",
+      "publishedAt": "2023-06-27T13:18:17.169Z",
+      "content": "Ein guter Vertrag bildet das Fundament einer rechtlichen Vereinbarung. Egal, ob es sich um einen Mietvertrag, einen Arbeitsvertrag oder einen Kaufvertrag handelt, ist es wichtig, den Inhalt des Vertrags vor der Unterzeichnung genau zu prüfen und zu verstehen. Im Folgenden finden sich wertvolle Tipps, auf welche Punkte man bei der Vertragsprüfung achten sollte, um die eigene Rechtssicherheit zu gewährleisten.\n\n### Sorgfältige Durchsicht des Vertrags\n\nBevor man einen Vertrag unterzeichnet, sollte man ihn sorgfältig von Anfang bis Ende durchlesen. Dabei sollte man auf alle Klauseln, Bedingungen und Vereinbarungen achten, die darin enthalten sind.\n\n### Klärung von Unklarheiten\n\nWenn bestimmte Passagen im Vertrag unklar sind oder man Schwierigkeiten hat, bestimmte Begriffe oder Formulierungen zu verstehen, sollte man nicht zögern, um Klarstellung zu bitten. Bei Bedarf kann man auch einen Rechtsexperten oder eine Rechtsexpertin hinzuziehen, um den Vertrag zu erläutern.\n\n### Relevante Vertragsbestandteile\n\nAlle relevanten Informationen sollten korrekt und vollständig im Vertrag festgehalten werden. Dazu gehören beispielsweise die Namen und Kontaktdaten der Vertragsparteien, der Vertragsgegenstand, die Laufzeit, die Zahlungsbedingungen und etwaige Zusatzvereinbarungen.\n\n### Regelungen zur Kündigung und Vertragsbeendigung\n\nMan sollte sich über über die Kündigungsfristen und die Bedingungen für eine vorzeitige Beendigung des Vertrags informieren. Dabei sollte sichergestellt werden, dass diese Regelungen für die jeweiligen Bedürfnisse akzeptabel sind.\n\n### Haftungs- und Gewährleistungsregelungen\n\nEs sollte überprüft werden, welche Regelungen im Vertrag zur Haftung und Gewährleistung enthalten sind. Beachtet werden sollten insbesondere Haftungsausschlüsse und -beschränkungen sowie Regelungen zur Mängelgewährleistung.\n\n### Geistiges Eigentum und Vertraulichkeit\n\nFalls der Vertrag geistiges Eigentum oder vertrauliche Informationen betrifft, muss sichergestellt werden, dass angemessene Regelungen zum Schutz dieser Rechte im Vertrag festgelegt sind.\n\n### Streitbeilegung und Gerichtsstand\n\nEs sollte auch überprüft werden, ob der Vertrag Regelungen zur außergerichtlichen Streitbeilegung oder zum Gerichtsstand enthält. Dabei ist zu klären, ob diese Regelungen für die eigenen Bedürfnisse angemessen sind.\n\n### Rechtliche Beratung in Anspruch nehmen\n\nBei komplexen Verträgen oder Unsicherheiten bezüglich der Vertragsinhalte kann es ratsam sein, rechtlichen Rat von einem Rechtsexperten oder einer Rechtsexpertin einzuholen. Eine professionelle Rechtsberatung kann dabei helfen, mögliche Risiken und Fallstricke zu erkennen.\n\nEs ist wichtig zu betonen, dass dieser Blogbeitrag allgemeine Informationen enthält und keine Rechtsberatung darstellt. Jeder Vertrag ist einzigartig und kann spezifische rechtliche Aspekte enthalten. Wenn man spezifische Fragen oder rechtliche Bedenken hat, empfiehlt es sich, einen Rechtsexperten oder eine Rechtsexpertin zu konsultieren.\n\nDie sorgfältige Prüfung und das Verständnis eines Vertrags sind von entscheidender Bedeutung, um rechtliche Konflikte und unerwünschte Überraschungen zu vermeiden. Indem man die oben genannten Tipps befolgt, kann man die eigene Rechtssicherheit stärken und ein solides Fundament für eine rechtlich bindende Vereinbarung schaffen.",
+      "image": {
+        "data": {
+          "id": 109,
+          "attributes": {
+            "name": "Vertrag wird unterzeichnet",
+            "alternativeText": "Vertrag wird unterzeichnet",
+            "caption": null,
+            "width": 3008,
+            "height": 2000,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Vertrag wird unterzeichnet",
+                "hash": "thumbnail_Vertrag_wird_unterzeichnet_48bb6da755",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 235,
+                "height": 156,
+                "size": 5.87,
+                "url": "/uploads/thumbnail_Vertrag_wird_unterzeichnet_48bb6da755.jpg"
+              }
+            },
+            "hash": "Vertrag_wird_unterzeichnet_48bb6da755",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 414.99,
+            "url": "/uploads/Vertrag_wird_unterzeichnet_48bb6da755.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-06-27T13:10:39.955Z",
+            "updatedAt": "2023-06-27T13:10:39.955Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "title": "Crowdrecht erklärt",
+            "description": "Wie funktioniert eigentlich...? Crowdrecht erklärt es euch!",
+            "createdAt": "2023-02-14T10:04:33.129Z",
+            "updatedAt": "2023-02-14T10:04:33.851Z",
+            "publishedAt": "2023-02-14T10:04:33.841Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 5,
+            "attributes": {
+              "tag": "Verbraucherschutz",
+              "createdAt": "2023-03-23T12:13:01.381Z",
+              "updatedAt": "2023-03-23T12:13:15.764Z",
+              "publishedAt": "2023-03-23T12:13:15.761Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 12,
+    "attributes": {
+      "title": "Vorfahrt für Radfahrer - Ein spannender Fall aus dem Verkehrsrecht",
+      "url": "vorfahrt-fuer-radfahrer-ein-spannender-fall-aus-dem-verkehrsrecht",
+      "description": "Entdeckt, wie ein Urteil Vorfahrtsregeln für Auto- und Radfahrer auf parallelen Radwegen beeinflusst.",
+      "date": "2023-05-07",
+      "createdAt": "2023-05-07T05:33:26.518Z",
+      "updatedAt": "2023-05-07T05:36:06.175Z",
+      "publishedAt": "2023-05-07T05:35:33.582Z",
+      "content": "Ein kürzlich ergangenes Urteil des Landgerichts Frankenthal (LG Frankenthal v. 24.3.2023 - 2 S 94/22) hat für Aufsehen gesorgt und verdeutlicht, dass Autofahrer auch Radfahrern Vorfahrt gewähren müssen, wenn sie von einem Feldweg auf eine Landstraße einbiegen möchten. Der Fall zeigt, wie wichtig es ist, sich der Verkehrsregeln bewusst zu sein und als Verkehrsteilnehmer stets aufmerksam und vorsichtig zu agieren.\n\n### Der Unfallhergang\nDer Vorfall ereignete sich im Bereich der Landstraße L530 in Höhe des Fasanenhofs in Meckenheim. Eine Autofahrerin wollte von einem Feldweg in die Landstraße einbiegen und übersah dabei einen parallel zur Landstraße verlaufenden Radweg. In der Folge kam es zu einer Kollision mit einem von links kommenden Radfahrer. Die Autofahrerin war der Meinung, dass der Radfahrer ihr die Vorfahrt genommen hätte und forderte Schadensersatz für die Schäden an ihrem Fahrzeug.\n\n### Gerichtliche Entscheidung\nDas Amtsgericht wies die Klage jedoch ab und auch die Berufung der Klägerin vor dem Landgericht war erfolglos. Die Richter stellten klar, dass Autofahrer beim Einbiegen von einem Feldweg auf eine Landstraße nicht nur dem Verkehr auf der Landstraße, sondern auch den Radfahrern auf dem parallel verlaufenden Radweg Vorfahrt gewähren müssen. Der Radweg gehöre zur Landstraße und nehme daher auch am Vorfahrtsrecht teil.\n\n### Zugehörigkeit des Radweges zur Landstraße\nIn diesem Fall war die Zugehörigkeit des Radweges zur Landstraße durch dessen Beschaffenheit und Verlauf eindeutig erkennbar, auch wenn er durch eine schmale bewachsene Fläche von der Straße getrennt war. Die Richter betonten, dass es nur auf die örtlichen Verhältnisse am Unfallort ankomme und nicht darauf, ob der Radweg in einiger Entfernung von der Landstraße weggeleitet wird.\n\n### Bedeutung für die Verkehrssicherheit\nDieses Urteil zeigt einmal mehr, wie wichtig es ist, sich als Verkehrsteilnehmer stets aufmerksam zu verhalten und sich der geltenden Verkehrsregeln bewusst zu sein. Denn nur so können Unfälle vermieden und ein sicheres Miteinander im Straßenverkehr gewährleistet werden.",
+      "image": {
+        "data": {
+          "id": 93,
+          "attributes": {
+            "name": "Schwarzes Fahrzeug Auf Straße",
+            "alternativeText": "Schwarzes Fahrzeug Auf Straße",
+            "caption": null,
+            "width": 5022,
+            "height": 3476,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Schwarzes Fahrzeug Auf Straße",
+                "hash": "thumbnail_Schwarzes_Fahrzeug_Auf_Strasse_79bb6a3f50",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 225,
+                "height": 156,
+                "size": 9.08,
+                "url": "/uploads/thumbnail_Schwarzes_Fahrzeug_Auf_Strasse_79bb6a3f50.jpg"
+              }
+            },
+            "hash": "Schwarzes_Fahrzeug_Auf_Strasse_79bb6a3f50",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 4323.9,
+            "url": "/uploads/Schwarzes_Fahrzeug_Auf_Strasse_79bb6a3f50.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-05-07T05:31:46.120Z",
+            "updatedAt": "2023-05-07T05:31:46.120Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 3,
+          "attributes": {
+            "title": "Aktuelle Rechtsprechung",
+            "description": "Wir informieren euch, was höchst aktuell an den deutschen Gerichten entschieden wird.",
+            "createdAt": "2023-03-23T12:12:38.249Z",
+            "updatedAt": "2023-03-23T12:12:42.911Z",
+            "publishedAt": "2023-03-23T12:12:42.909Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 7,
+            "attributes": {
+              "tag": "Verkehrsrecht",
+              "createdAt": "2023-05-07T05:34:26.904Z",
+              "updatedAt": "2023-05-07T05:34:29.150Z",
+              "publishedAt": "2023-05-07T05:34:29.147Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "attributes": {
+      "title": "Wachstum & Vernetzung: Unser Besuch beim Next Summit for Good",
+      "url": "wachstum-vernetzung-next-summit-for-good",
+      "description": "Erfahre in unserem Blogbeitrag, wie das \"Next Summit for Good\" dem Crowdrecht-Team wertvolle Einblicke und Inspiration für soziales Unternehmertum bot.",
+      "date": "2023-04-23",
+      "createdAt": "2023-04-23T16:54:55.689Z",
+      "updatedAt": "2023-04-23T16:55:52.869Z",
+      "publishedAt": "2023-04-23T16:55:52.866Z",
+      "content": "Als Team von Crowdrecht hatten wir die großartige Gelegenheit, am inspirierenden \"Next Summit for Good\" in Hamburg teilzunehmen. Dieses Event, organisiert von Carmen Ludwig im Namen der Körber-Stiftung, Anja Nachtmann und ihrem Team von Generation-D, sowie der Unterstützung vom Social Impact Award, bot uns nicht nur eine Plattform für inhaltliche Weiterbildung, sondern ermöglichte uns auch, wertvolle Verbindungen mit anderen Social Entrepreneurs zu knüpfen.\n\nGemeinsam besuchten wir verschiedene Workshops, in denen wir unser Wissen erweiterten und neue Perspektiven gewannen. Dabei standen Themen wie erfolgreiches Networking, richtige Positionierung und die Bedeutung von Resilienz im unternehmerischen Alltag im Vordergrund. Der Austausch mit anderen Gründern und Experten ermöglichte es uns, das Gründer-Mindset weiterzuentwickeln und uns gegenseitig zu inspirieren.\n\nUnsere Teilnahme am Event war eine großartige Gelegenheit, die Zusammenarbeit und das Verständnis innerhalb unseres Teams zu stärken. Jedes Teammitglied brachte seine individuellen Erfahrungen und Erkenntnisse in unsere Diskussionen ein, wodurch wir gemeinsam wuchsen und unseren Horizont erweiterten.\n\nEin besonderer Moment für uns war das 1on1 Gespräch mit Rechtsanwalt Philipp Hoegl von Taylor Wessing, der uns wertvolle Einblicke in die juristischen Hintergründe einer erfolgreichen Gründung gab. Diese Informationen werden für die weitere Entwicklung von Crowdrecht von entscheidender Bedeutung sein.\n\nAbschließend möchten wir uns bei allen Organisatoren und Teilnehmern des Next Summit for Good bedanken. Die Veranstaltung hat nicht nur unser Wissen und unsere Fähigkeiten bereichert, sondern uns auch ermöglicht, unser Netzwerk auszubauen und neue Freundschaften zu schließen. Wir sind stolz darauf, Teil dieser engagierten und visionären Gemeinschaft zu sein, die gemeinsam daran arbeitet, die Welt zu einem besseren Ort zu machen.",
+      "image": {
+        "data": {
+          "id": 85,
+          "attributes": {
+            "name": "Team",
+            "alternativeText": "Teambild auf Veranstaltung",
+            "caption": null,
+            "width": 1567,
+            "height": 1045,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Team",
+                "hash": "thumbnail_Team_2ee8b3cdf3",
+                "ext": ".jpeg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 10.66,
+                "url": "/uploads/thumbnail_Team_2ee8b3cdf3.jpeg"
+              }
+            },
+            "hash": "Team_2ee8b3cdf3",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "size": 207.47,
+            "url": "/uploads/Team_2ee8b3cdf3.jpeg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-04-23T16:52:19.652Z",
+            "updatedAt": "2023-04-23T16:52:19.652Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "Marina Schneider ",
+            "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+            "createdAt": "2023-02-14T10:02:06.588Z",
+            "updatedAt": "2023-04-11T20:07:27.005Z",
+            "publishedAt": "2023-02-14T10:02:12.341Z",
+            "image": {
+              "data": {
+                "id": 1,
+                "attributes": {
+                  "name": "Marina_Crowdrecht.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 640,
+                  "height": 640,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Marina_Crowdrecht.jpg",
+                      "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.07,
+                      "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                    },
+                    "small": {
+                      "name": "small_Marina_Crowdrecht.jpg",
+                      "hash": "small_Marina_Crowdrecht_053e45b294",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 27.4,
+                      "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                    }
+                  },
+                  "hash": "Marina_Crowdrecht_053e45b294",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 43.24,
+                  "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-02-14T10:07:28.819Z",
+                  "updatedAt": "2023-02-21T11:21:16.634Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "title": "News",
+            "description": "Alle wichtigen Neuigkeiten bei Crowdrecht erfahrt ihr hier!",
+            "createdAt": "2023-02-14T12:21:38.915Z",
+            "updatedAt": "2023-02-14T12:21:39.740Z",
+            "publishedAt": "2023-02-14T12:21:39.732Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 3,
+            "attributes": {
+              "tag": "Crowd",
+              "createdAt": "2023-02-14T10:05:01.272Z",
+              "updatedAt": "2023-02-14T10:05:01.975Z",
+              "publishedAt": "2023-02-14T10:05:01.969Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 24,
+    "attributes": {
+      "title": "Workshop: Nachhaltiges Wirtschaften",
+      "url": "workshop-nachhaltigwirtschaften",
+      "description": "Teilnahme am Workshop von Generation-D",
+      "date": "2023-06-21",
+      "createdAt": "2023-06-21T09:24:39.840Z",
+      "updatedAt": "2023-06-22T13:12:49.979Z",
+      "publishedAt": "2023-06-21T09:24:50.757Z",
+      "content": "Workshop für Start-ups: Erfolgreich gründen und nachhaltig wachsen\n\nAm vergangenen Montag hatten wir das Vergnügen, am inspirierenden Workshop für Start-ups teilzunehmen, der von Generation D organisiert wurde. Unter der fachkundigen Leitung von Alma Spribille, Vorständin im BNW e.V. und Geschäftsführerin von WEtell, erhielten wir wertvolle Einblicke in den Gründungsprozess, nachhaltiges Wachstum und agile Unternehmensstrukturen.\n\nIn ihrem Impulsvortrag teilte Alma Spribille ihre eigene Unternehmensgeschichte und ermutigte uns, unsere Träume zu verfolgen. Dabei betonte sie die Bedeutung von Verantwortungseigentum, Gemeinwohlökonomie und Scrum als Instrumente für den Erfolg eines Unternehmens. Es war inspirierend, von ihren Erfahrungen zu lernen und praktische Tipps für unseren eigenen unternehmerischen Weg mitzunehmen.\n\nDr. Katharina Reuter, Geschäftsführerin im BNW e.V., sprach über die Relevanz ökologischer und sozialer Nachhaltigkeitsleistungen für Start-ups. Sie verdeutlichte, wie Nachhaltigkeit nicht nur ethisch sinnvoll, sondern auch ein entscheidender Wettbewerbsvorteil sein kann. Ihre Erkenntnisse haben uns dazu inspiriert, Nachhaltigkeit fest in unsere Geschäftsmodelle zu integrieren. „Wertschaften“ anstatt Wirtschaften.\n\nAls Teilnehmer des Workshops freuen wir uns, mitteilen zu können, dass unser Unternehmen Crowdrecht ebenfalls das Ziel verfolgt, ein wirtschaftlich und sozial nachhaltiges Unternehmen zu werden. Wir sind stolz darauf, bereits mit dem SDG16 (Nachhaltige Entwicklung Ziel 16: Frieden, Gerechtigkeit und starke Institutionen) ausgezeichnet worden zu sein. Diese Anerkennung bestärkt uns in unserem Engagement, positive Veränderungen zu bewirken und eine nachhaltige Zukunft zu gestalten.\n\nDie anschließende Q&A-Session bot uns die Möglichkeit, unsere individuellen Fragen zu stellen und spezifische Herausforderungen zu diskutieren. Von Fragen zu den geeigneten Rechtsformen für Start-ups bis hin zur Messung unseres eigenen Impacts - die Experten standen uns mit wertvollem Rat zur Seite und teilten ihre wertvollen Erfahrungen.\nWir sind dankbar für die Einladung von Generation D zu diesem Workshop, der uns mit wertvollen Erkenntnissen und Inspiration für unseren unternehmerischen Weg versorgt hat. Wir sind fest entschlossen, die gewonnenen Erkenntnisse in die Tat umzusetzen und unsere Start-up-Ideen erfolgreich voranzutreiben.\n\nEin herzliches Dankeschön an Alma Spribille, Dr. Katharina Reuter und das gesamte Team des BNW e.V. für die Organisation dieses herausragenden Workshops. Wir freuen uns bereits auf weitere Veranstaltungen und die Möglichkeit, uns mit anderen Gründerinnen und Gründern auszutauschen.\nLasst uns gemeinsam die Welt der Start-ups revolutionieren und nachhaltiges Wachstum vorantreiben!\n#Startups #Workshop #Gründung #Nachhaltigkeit #Erfolg #GenerationD #Crowdrecht #SDG16\n\n",
+      "image": {
+        "data": {
+          "id": 107,
+          "attributes": {
+            "name": "Bildschirmfoto 2023-06-21 um 09.54.36.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1565,
+            "height": 726,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Bildschirmfoto 2023-06-21 um 09.54.36.png",
+                "hash": "thumbnail_Bildschirmfoto_2023_06_21_um_09_54_36_1564eba324",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 245,
+                "height": 114,
+                "size": 16.77,
+                "url": "/uploads/thumbnail_Bildschirmfoto_2023_06_21_um_09_54_36_1564eba324.png"
+              }
+            },
+            "hash": "Bildschirmfoto_2023_06_21_um_09_54_36_1564eba324",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 150.02,
+            "url": "/uploads/Bildschirmfoto_2023_06_21_um_09_54_36_1564eba324.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-06-21T08:54:57.696Z",
+            "updatedAt": "2023-06-21T08:54:57.696Z"
+          }
+        }
+      },
+      "blog_author": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "name": "Pius Zappe",
+            "description": "Pius hat als Praktikant bei Crowdrecht im Bereich Marketing gearbeitet",
+            "createdAt": "2023-06-22T13:10:18.797Z",
+            "updatedAt": "2023-10-09T12:00:01.079Z",
+            "publishedAt": "2023-06-26T09:01:59.265Z",
+            "image": {
+              "data": {
+                "id": 106,
+                "attributes": {
+                  "name": "Pius_Crowdrecht.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 959,
+                  "height": 1280,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_Pius_Crowdrecht.png",
+                      "hash": "thumbnail_Pius_Crowdrecht_080f5fe00b",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "path": null,
+                      "width": 117,
+                      "height": 156,
+                      "size": 22.73,
+                      "url": "/uploads/thumbnail_Pius_Crowdrecht_080f5fe00b.png"
+                    }
+                  },
+                  "hash": "Pius_Crowdrecht_080f5fe00b",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 985.63,
+                  "url": "/uploads/Pius_Crowdrecht_080f5fe00b.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-06-19T10:09:17.116Z",
+                  "updatedAt": "2023-06-22T13:10:01.377Z"
+                }
+              }
+            }
+          }
+        }
+      },
+      "blog_category": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "title": "News",
+            "description": "Alle wichtigen Neuigkeiten bei Crowdrecht erfahrt ihr hier!",
+            "createdAt": "2023-02-14T12:21:38.915Z",
+            "updatedAt": "2023-02-14T12:21:39.740Z",
+            "publishedAt": "2023-02-14T12:21:39.732Z"
+          }
+        }
+      },
+      "blog_tags": {
+        "data": [
+          {
+            "id": 9,
+            "attributes": {
+              "tag": "Startup",
+              "createdAt": "2023-06-11T13:57:06.334Z",
+              "updatedAt": "2023-06-11T13:57:41.765Z",
+              "publishedAt": "2023-06-11T13:57:41.763Z"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

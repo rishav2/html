@@ -1,0 +1,148 @@
+{
+  "pageProps": {
+    "team": [
+      {
+        "id": 3,
+        "attributes": {
+          "name": "Marina Schneider",
+          "jobtitle": "Co-Founder | CEO",
+          "email": "marina.schneider@crowdrecht.de",
+          "linkedin": "https://www.linkedin.com/in/marina-schneider-704822252/",
+          "createdAt": "2023-05-04T08:55:53.039Z",
+          "updatedAt": "2023-05-04T08:55:54.119Z",
+          "publishedAt": "2023-05-04T08:55:54.115Z",
+          "image": {
+            "data": {
+              "id": 89,
+              "attributes": {
+                "name": "marina.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 801,
+                "height": 1068,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_marina.jpg",
+                    "hash": "thumbnail_marina_7acffdb92d",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 117,
+                    "height": 156,
+                    "size": 3.22,
+                    "url": "/uploads/thumbnail_marina_7acffdb92d.jpg"
+                  }
+                },
+                "hash": "marina_7acffdb92d",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 178.15,
+                "url": "/uploads/marina_7acffdb92d.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-05-04T08:55:42.967Z",
+                "updatedAt": "2023-05-04T08:55:42.967Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "name": "Deborah Fehr",
+          "jobtitle": "Co-Founder | CTO",
+          "email": "deborah.fehr@crowdrecht.de",
+          "linkedin": "https://www.linkedin.com/in/deborah-fehr/",
+          "createdAt": "2023-05-04T08:56:43.996Z",
+          "updatedAt": "2023-05-04T09:28:30.087Z",
+          "publishedAt": "2023-05-04T08:56:45.170Z",
+          "image": {
+            "data": {
+              "id": 90,
+              "attributes": {
+                "name": "deborah.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 801,
+                "height": 1200,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_deborah.jpg",
+                    "hash": "thumbnail_deborah_3dc2164023",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 104,
+                    "height": 156,
+                    "size": 3.46,
+                    "url": "/uploads/thumbnail_deborah_3dc2164023.jpg"
+                  }
+                },
+                "hash": "deborah_3dc2164023",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 515.52,
+                "url": "/uploads/deborah_3dc2164023.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-05-04T08:55:43.135Z",
+                "updatedAt": "2023-05-04T08:55:43.135Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "name": "Isidora Hanisch",
+          "jobtitle": "Marketing Intern",
+          "email": "isidora.hanisch@crowdrecht.de",
+          "linkedin": "https://www.linkedin.com/in/isidora-hanisch-7bb620237/",
+          "createdAt": "2023-06-12T12:51:46.829Z",
+          "updatedAt": "2023-06-19T10:10:02.705Z",
+          "publishedAt": "2023-06-12T12:51:48.564Z",
+          "image": {
+            "data": {
+              "id": 105,
+              "attributes": {
+                "name": "isidora_crowdrecht.jpeg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 705,
+                "height": 824,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_isidora_crowdrecht.jpeg",
+                    "hash": "thumbnail_isidora_crowdrecht_d251ce2e3a",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 133,
+                    "height": 156,
+                    "size": 3.42,
+                    "url": "/uploads/thumbnail_isidora_crowdrecht_d251ce2e3a.jpeg"
+                  }
+                },
+                "hash": "isidora_crowdrecht_d251ce2e3a",
+                "ext": ".jpeg",
+                "mime": "image/jpeg",
+                "size": 107.52,
+                "url": "/uploads/isidora_crowdrecht_d251ce2e3a.jpeg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-06-12T12:51:42.851Z",
+                "updatedAt": "2023-06-19T10:10:01.105Z"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,464 @@
+{
+  "pageProps": {
+    "content": {
+      "id": 4,
+      "attributes": {
+        "title": "Aus Jufund wird Crowdrecht - Gemeinsam gerecht!",
+        "url": "10_02_23_Crowdrecht",
+        "description": "Crowdrecht - ein neuer Name für eine neue Ära im Crowdinvesting",
+        "date": "2023-02-10",
+        "createdAt": "2023-02-14T12:21:21.676Z",
+        "updatedAt": "2023-02-14T12:21:51.766Z",
+        "publishedAt": "2023-02-14T12:21:51.757Z",
+        "content": "Wir freuen uns, bekannt zu geben, dass wir uns von Jufund zu Crowdrecht umbenannt haben.\nDiese Veränderung spiegelt unser Engagement für mehr Transparenz und Klarheit wider, wenn es darum geht, was wir tun und wofür wir stehen.\n\n### Crowdrecht - was bedeutet das?\nCrowdrecht steht für Crowdinvesting im Rechtsbereich. Mit unserer Plattform verbinden wir Investoren mit Rechtsfällen, die finanzielle Unterstützung benötigen. Durch das Crowdinvesting kann die Last des Rechtsstreits auf viele Schultern verteilt werden, was zu einer schnelleren und günstigeren Lösung führen kann.\nUnsere Vision ist es, mehr Gerechtigkeit in der Welt zu schaffen. Indem wir eine Plattform bereitstellen, auf der Investoren und Kläger zusammenkommen können, ermöglichen wir es Menschen, ihre Rechte durchzusetzen, die sie sonst nicht hätten.\n\n### Gemeinsam gerecht mit Crowdrecht\nMit unserem neuen Namen, Crowdrecht, bringen wir die Crowd als Gemeinschaft und die Spezialisierung auf Rechtsthemen in den Vordergrund. Wir glauben, dass dieser Name den Nutzen unserer Plattform und unsere Vision besser widerspiegelt.\nWir freuen uns auf einen erfolgreichen Start als Crowdrecht und auf die Möglichkeit, mehr Menschen zu helfen, Gerechtigkeit zu finden. Mit Ihrer Unterstützung können wir eine bessere Zukunft für alle schaffen.",
+        "image": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "10_02_23_Crowdrecht.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 427,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_10_02_23_Crowdrecht.png",
+                  "hash": "thumbnail_10_02_23_Crowdrecht_6a5b94564d",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 234,
+                  "height": 156,
+                  "size": 8.32,
+                  "url": "/uploads/thumbnail_10_02_23_Crowdrecht_6a5b94564d.png"
+                },
+                "small": {
+                  "name": "small_10_02_23_Crowdrecht.png",
+                  "hash": "small_10_02_23_Crowdrecht_6a5b94564d",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 500,
+                  "height": 334,
+                  "size": 19.49,
+                  "url": "/uploads/small_10_02_23_Crowdrecht_6a5b94564d.png"
+                }
+              },
+              "hash": "10_02_23_Crowdrecht_6a5b94564d",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 4.5,
+              "url": "/uploads/10_02_23_Crowdrecht_6a5b94564d.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-14T12:20:43.218Z",
+              "updatedAt": "2023-02-21T11:12:18.854Z"
+            }
+          }
+        },
+        "blog_author": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Marina Schneider ",
+              "description": "Marina unterstützt Crowdrecht als Co-Founderin mit ihrem juristischen Fachwissen.",
+              "createdAt": "2023-02-14T10:02:06.588Z",
+              "updatedAt": "2023-04-11T20:07:27.005Z",
+              "publishedAt": "2023-02-14T10:02:12.341Z",
+              "image": {
+                "data": {
+                  "id": 1,
+                  "attributes": {
+                    "name": "Marina_Crowdrecht.jpg",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 640,
+                    "height": 640,
+                    "formats": {
+                      "thumbnail": {
+                        "name": "thumbnail_Marina_Crowdrecht.jpg",
+                        "hash": "thumbnail_Marina_Crowdrecht_053e45b294",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "path": null,
+                        "width": 156,
+                        "height": 156,
+                        "size": 4.07,
+                        "url": "/uploads/thumbnail_Marina_Crowdrecht_053e45b294.jpg"
+                      },
+                      "small": {
+                        "name": "small_Marina_Crowdrecht.jpg",
+                        "hash": "small_Marina_Crowdrecht_053e45b294",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "path": null,
+                        "width": 500,
+                        "height": 500,
+                        "size": 27.4,
+                        "url": "/uploads/small_Marina_Crowdrecht_053e45b294.jpg"
+                      }
+                    },
+                    "hash": "Marina_Crowdrecht_053e45b294",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 43.24,
+                    "url": "/uploads/Marina_Crowdrecht_053e45b294.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-02-14T10:07:28.819Z",
+                    "updatedAt": "2023-02-21T11:21:16.634Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "blog_category": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "title": "News",
+              "description": "Alle wichtigen Neuigkeiten bei Crowdrecht erfahrt ihr hier!",
+              "createdAt": "2023-02-14T12:21:38.915Z",
+              "updatedAt": "2023-02-14T12:21:39.740Z",
+              "publishedAt": "2023-02-14T12:21:39.732Z"
+            }
+          }
+        },
+        "blog_tags": {
+          "data": [
+            {
+              "id": 3,
+              "attributes": {
+                "tag": "Crowd",
+                "createdAt": "2023-02-14T10:05:01.272Z",
+                "updatedAt": "2023-02-14T10:05:01.975Z",
+                "publishedAt": "2023-02-14T10:05:01.969Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "articles": [
+      {
+        "id": 37,
+        "attributes": {
+          "title": "Rechtliche Rechte im Fall von Shani Louk und Konsequenzen für Hamas",
+          "url": "Rechtliche-Rechte-im-Fall-von-Shani-Louk",
+          "description": "Dieser Artikel behandelt die spezifischen rechtlichen Rechte nach deutschem Recht, die auf den Fall von Shani Louk zutreffen, einer deutschen Staatsbürgerin, die von der Hamas angegriffen wurde, und die potenziellen Konsequenzen für die Hamas, während die rechtlichen und diplomatischen Prozesse zur Sicherung ihrer Sicherheit und zur Wahrung der Gerechtigkeit fortschreiten.",
+          "date": "2023-10-16",
+          "createdAt": "2023-10-16T12:34:19.019Z",
+          "updatedAt": "2023-10-16T12:34:22.002Z",
+          "publishedAt": "2023-10-16T12:34:21.997Z",
+          "content": "Im Nachgang der jüngsten beunruhigenden Ereignisse im Zusammenhang mit Shani Louk, einer 22-jährigen deutschen Staatsbürgerin, werden ihre spezifischen rechtlichen Rechte in diesem Fall von größter Bedeutung. \n\nShani war in der Tat Opfer eines Angriffs der Hamas während des Supernova-Musikfestivals, wie berichtet. Ihre erkennbaren Merkmale, insbesondere ihre markanten Tattoos und Dreadlocks, spielten eine entscheidende Rolle bei ihrer Identifikation in diesem Vorfall. Shani's Mutter hat leidenschaftlich um Hilfe der deutschen Regierung gebeten, um ihre Tochter zu retten und ihre schwerwiegende Kopfverletzung zu behandeln. Hier sind die wichtigsten, spezifischen rechtlichen Rechte nach deutschem Recht, die auf den Fall von Shani Louk zutreffen, und die potenziellen Konsequenzen für die Hamas:\n\n**1. Recht auf konsularische Hilfe und Konsequenzen für die Hamas: **\nShani Louk, als deutsche Staatsbürgerin, hat das unantastbare Recht, im Ausland unverzüglich konsularische Hilfe von der deutschen Regierung zu beanspruchen. Diese rechtliche Bestimmung stellt sicher, dass die Behörden nicht nur verpflichtet, sondern auch dazu verpflichtet sind, die notwendige konsularische Unterstützung unverzüglich bereitzustellen, nicht als Option, sondern als zwingende Maßnahme, um Shani's Rechte nach deutschem Recht zu schützen. Für die Hamas unterstreicht dies die potenziellen internationalen Konsequenzen ihres Handelns, da Deutschland alle rechtlichen Mittel verfolgen wird, um Shani's Sicherheit zu gewährleisten und die Verantwortlichen zur Rechenschaft zu ziehen.\n\n**2. Datenschutz und Datenschutz: **\nAngesichts der Ernsthaftigkeit der Situation treten deutsche Gesetze zum Datenschutz und zum Schutz der Privatsphäre in Kraft, um sensible Informationen über die beteiligten Personen, insbesondere Shani, zu schützen. Diese rechtlichen Bestimmungen stellen sicher, dass die Handhabung solch sensibler Informationen den Datenschutzgesetzen entspricht und ihr Recht auf Privatsphäre gewahrt wird. Für die Hamas bedeutet dies, dass jede Verletzung dieser Datenschutzrechte ihre rechtliche Haftung weiter verschärfen könnte.\n\n**3. Internationales Recht und diplomatische Bemühungen: **\nShani Louks Situation im Zusammenhang mit einem internationalen Vorfall ruft die Grundsätze des internationalen Rechts hervor, insbesondere in Konfliktsituationen. Die deutschen Behörden können in Zusammenarbeit mit internationalen Organisationen rechtliche Schritte unternehmen, um Shani's Sicherheit zu gewährleisten und die komplexen Umstände ihres Falls anzugehen. Für die Hamas könnte dies zu internationalen rechtlichen Konsequenzen und diplomatischen Maßnahmen führen.\n\n\n**4. Recht auf Rechtsschutz und faires Verfahren: ****\nWenn die für Shani's Qualen Verantwortlichen identifiziert und gefasst werden, garantiert das deutsche Recht ihr das unveräußerliche Recht auf Rechtsschutz und ein faires Verfahren. Dies gewährt ihr die gleichen grundlegenden Rechte und rechtlichen Schutz wie jedem anderen deutschen Staatsbürger. Für die Hamas bedeutet dies, dass sie innerhalb des rechtlichen Rahmens potenzielle rechtliche Konsequenzen für ihre Handlungen in Kauf nehmen müssen.\n\nShanis Fall unterstreicht die entscheidende Rolle dieser spezifischen rechtlichen Rechte im Rahmen des deutschen Rechts bei der Sicherung ihres Wohlergehens, ihrer Sicherheit und ihrer Rechte angesichts von Widrigkeiten im Ausland. Es betont auch die potenziellen rechtlichen und internationalen Konsequenzen für die Hamas, während die rechtlichen und diplomatischen Prozesse zur Wahrung der Gerechtigkeit und zur Sicherstellung von Shanis Sicherheit im Rahmen des deutschen und internationalen Rechts fortschreiten. Rechtsexperten, Diplomaten und Behörden werden zweifellos mit großem Engagement daran arbeiten, sicherzustellen, dass die Gerechtigkeit gewahrt wird und die Rechte von Shani Louk und ihrer Familie im Rahmen des Gesetzes geschützt werden, während die Handlungen der Beteiligten untersucht werden.",
+          "blog_author": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "Isidora",
+                "description": "Isidora unterstützt Crowdrecht als Praktikantin im Bereich Marketing",
+                "createdAt": "2023-07-27T08:35:18.082Z",
+                "updatedAt": "2023-08-18T07:06:14.790Z",
+                "publishedAt": "2023-07-27T08:35:31.197Z"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 120,
+              "attributes": {
+                "name": "Rechtliche Rechte im Fall von Shani Louk und Konsequenzen für Hamas.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1080,
+                "height": 1350,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_Rechtliche Rechte im Fall von Shani Louk und Konsequenzen für Hamas.png",
+                    "hash": "thumbnail_Rechtliche_Rechte_im_Fall_von_Shani_Louk_und_Konsequenzen_fuer_Hamas_fc5ef0ab43",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 125,
+                    "height": 156,
+                    "size": 42.85,
+                    "url": "/uploads/thumbnail_Rechtliche_Rechte_im_Fall_von_Shani_Louk_und_Konsequenzen_fuer_Hamas_fc5ef0ab43.png"
+                  }
+                },
+                "hash": "Rechtliche_Rechte_im_Fall_von_Shani_Louk_und_Konsequenzen_fuer_Hamas_fc5ef0ab43",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1536.75,
+                "url": "/uploads/Rechtliche_Rechte_im_Fall_von_Shani_Louk_und_Konsequenzen_fuer_Hamas_fc5ef0ab43.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-10-16T12:33:33.237Z",
+                "updatedAt": "2023-10-16T12:33:33.237Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 36,
+        "attributes": {
+          "title": "Deutscher Präsident Steinmeier trifft Präsident Biden zur Diskussion über Ukraine-Hilfe",
+          "url": "Steinmeier-trifft-Biden",
+          "description": "Deutsch-amerikanische Partnerschaft für die Ukraine: Präsident Steinmeier und Präsident Biden besprechen die Zukunft der Unterstützung. In unserem neuesten Artikel erfahrt ihr, wie die beiden Staatschefs die Hilfe für die Ukraine trotz jüngster Herausforderungen und politischer Spannungen weiterhin stärken wollen. Außerdem stellen wir euch eine wichtige Frage zur Bedeutung dieser Partnerschaft in der heutigen geopolitischen Landschaft. ",
+          "date": "2023-10-06",
+          "createdAt": "2023-10-07T18:13:35.523Z",
+          "updatedAt": "2023-10-07T18:13:37.997Z",
+          "publishedAt": "2023-10-07T18:13:37.993Z",
+          "content": "In einem kürzlichen Treffen zwischen dem deutschen Präsidenten Frank-Walter Steinmeier und dem US-Präsidenten Joe Biden haben die beiden Führer ihre Verpflichtung zur Unterstützung der Ukraine bekräftigt, obwohl es Bedenken gab, dass der US-Kongress ein vorübergehendes Finanzierungsgesetz verabschiedete, das keine Hilfe für die Ukraine vorsah.\n\nSteinmeier äußerte Bedenken über diese Entwicklungen und merkte an, dass viele Republikaner skeptisch gegenüber zusätzlicher Unterstützung für Kiew sind. Dennoch bleibt er optimistisch, dass eine Lösung durch Verhandlungen zwischen Demokraten und Republikanern gefunden werden kann. Beide Führer betonten die Bedeutung, ein gemeinsames Signal zu senden, dass Washington und Berlin die Ukraine weiterhin unterstützen werden.\n\nTrotz Herausforderungen und wachsendem Widerstand hat Deutschland zugesagt, an der Seite der Ukraine zu stehen. \"Die Menschen in der Ukraine wissen: Was Deutschland verspricht, hält es. Deutschland ist vertrauenswürdig\", erklärte Steinmeier. \"Wir werden die Ukraine weiterhin in ihrem Kampf für ihr Land, ihre Freiheit und ihre Demokratie unterstützen.\"\n\nDieses Treffen unterstreicht die anhaltende Freundschaft zwischen Deutschland und den Vereinigten Staaten, wobei beide Führer die tiefe und starke deutsch-amerikanische Beziehung anerkennen. ",
+          "blog_author": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "Isidora",
+                "description": "Isidora unterstützt Crowdrecht als Praktikantin im Bereich Marketing",
+                "createdAt": "2023-07-27T08:35:18.082Z",
+                "updatedAt": "2023-08-18T07:06:14.790Z",
+                "publishedAt": "2023-07-27T08:35:31.197Z"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 119,
+              "attributes": {
+                "name": "1.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1080,
+                "height": 1080,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1.png",
+                    "hash": "thumbnail_1_82c6ff9a8a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 43.35,
+                    "url": "/uploads/thumbnail_1_82c6ff9a8a.png"
+                  }
+                },
+                "hash": "1_82c6ff9a8a",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 876.51,
+                "url": "/uploads/1_82c6ff9a8a.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-10-07T18:02:26.947Z",
+                "updatedAt": "2023-10-07T18:02:26.947Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 35,
+        "attributes": {
+          "title": "Deutschlands Inflationsaktualisierung",
+          "url": "Deutschlands-Inflationsaktualisierung",
+          "description": "Ein Überblick über wirtschaftliche Trends",
+          "date": "2023-08-31",
+          "createdAt": "2023-08-31T20:55:27.467Z",
+          "updatedAt": "2023-08-31T20:55:30.223Z",
+          "publishedAt": "2023-08-31T20:55:30.220Z",
+          "content": "Die Inflationsrate Deutschlands erlebte im August einen leichten Rückgang und lag bei 6,1 Prozent im Vergleich zum Vorjahr. Diese geringfügige Abnahme wurde auf anhaltende Energiepreisanstiege zurückgeführt, die einen stärkeren Rückgang verhinderten. \n\nBesonders auffällig war der Anstieg der Lebensmittelpreise um 9,0 Prozent im Jahresvergleich, während die Energiepreise um 8,3 Prozent stiegen und zur Gesamtinflationsrate beitrugen.\n\nDie Reaktion des Finanzsektors auf die Inflation ist von entscheidender Bedeutung. Trotz eines Rückgangs der Importpreise um 13,2 Prozent müssen sich die Bank- und Investitionsindustrien anpassen, um die Stabilität zu erhalten.\n\nChefvolkswirt Jörg Zeuner betonte die Rolle eines robusten Arbeitsmarktes und der Lohndynamik bei der Bekämpfung von Inflationsdruck.\n\nWährend Deutschland diese inflatorischen Herausforderungen meistert, betont das komplexe Zusammenspiel zwischen Energie, Lebensmittel- und Finanzsektoren die Komplexität der Situation. Mit Anpassungsfähigkeit und sorgfältigen wirtschaftlichen Strategien gewinnt die Aufrechterhaltung der Stabilität angesichts schwankender Preise an höchster Bedeutung.",
+          "blog_author": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "Isidora",
+                "description": "Isidora unterstützt Crowdrecht als Praktikantin im Bereich Marketing",
+                "createdAt": "2023-07-27T08:35:18.082Z",
+                "updatedAt": "2023-08-18T07:06:14.790Z",
+                "publishedAt": "2023-07-27T08:35:31.197Z"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 118,
+              "attributes": {
+                "name": "1.png",
+                "alternativeText": "Deutschlands Inflationsaktualisierung",
+                "caption": null,
+                "width": 1080,
+                "height": 1080,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1.png",
+                    "hash": "thumbnail_1_c6204f0c70",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 26.57,
+                    "url": "/uploads/thumbnail_1_c6204f0c70.png"
+                  }
+                },
+                "hash": "1_c6204f0c70",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 278.75,
+                "url": "/uploads/1_c6204f0c70.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-31T20:50:13.171Z",
+                "updatedAt": "2023-08-31T20:50:13.171Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 34,
+        "attributes": {
+          "title": "Ermittlungen gegen Till Lindemann von Rammstein eingestellt",
+          "url": "Rammstein-Rechtsstreit",
+          "description": "Rund um Rammstein ist ein verwirrender Rechtsstreit entbrannt. ",
+          "date": "2023-08-29",
+          "createdAt": "2023-08-30T15:51:05.298Z",
+          "updatedAt": "2023-08-30T15:51:09.346Z",
+          "publishedAt": "2023-08-30T15:51:09.342Z",
+          "content": "\nDie Berliner Staatsanwaltschaft hat offiziell die strafrechtlichen Ermittlungen gegen Till Lindemann, den Frontmann der renommierten deutschen Band Rammstein, abgeschlossen. \n\nDie Untersuchung, die auf Vorwürfen wegen sexuellen Fehlverhaltens und Verstößen gegen das Betäubungsmittelgesetz beruhte, fand keine überzeugenden Beweise zur Untermauerung der Anschuldigungen.\n\nDie Ermittlungen wurden im Juni eingeleitet, nachdem Dritte in den Medien darüber berichtet hatten. Die Untersuchung ergab jedoch keine konkreten Beweise dafür, dass Lindemann nicht einvernehmliche Handlungen mit jungen weiblichen Fans begangen hat oder ihnen betäubende Substanzen zugeführt hat. Auch die Anschuldigungen, Machtungleichgewichte mit Minderjährigen ausgenutzt zu haben, konnten nicht ausreichend gestützt werden.\n\nDas Fehlen direkter Kommunikation seitens der mutmaßlichen Opfer erschwerte die Überprüfung der Behauptungen. Selbst Aussagen der YouTuberin Kayla Shyx, die Vorwürfe gegen Lindemann erhoben hatte, mangelten an konkreten Erfahrungsberichten. Die Aufzeichnungen der litauischen Behörden sowie mit Konzerten in Verbindung gebrachte Anschuldigungen lieferten keine Beweise für Fehlverhalten.\n\nAnschuldigungen in Zusammenhang mit einem 15-jährigen Opfer konnten aufgrund von Anonymität nicht bestätigt werden, was zur Einstellung der Ermittlungen führte.\n\nEbenso wurden Vorwürfe gegen den Tourmanager verworfen. Lindemanns Rechtsvertreter der Kanzlei Schertz Bergmann betonten das Fehlen signifikanter Beweise und deuteten mögliche rechtliche Schritte gegen ungenaue Darstellungen und unbegründete Verdachtsberichterstattung an.\n",
+          "blog_author": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "Isidora",
+                "description": "Isidora unterstützt Crowdrecht als Praktikantin im Bereich Marketing",
+                "createdAt": "2023-07-27T08:35:18.082Z",
+                "updatedAt": "2023-08-18T07:06:14.790Z",
+                "publishedAt": "2023-07-27T08:35:31.197Z"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 117,
+              "attributes": {
+                "name": "1.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1080,
+                "height": 1350,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1.png",
+                    "hash": "thumbnail_1_0eb291466d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 125,
+                    "height": 156,
+                    "size": 50.57,
+                    "url": "/uploads/thumbnail_1_0eb291466d.png"
+                  }
+                },
+                "hash": "1_0eb291466d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1337.3,
+                "url": "/uploads/1_0eb291466d.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-30T15:46:37.618Z",
+                "updatedAt": "2023-08-30T15:46:37.618Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 33,
+        "attributes": {
+          "title": "Deutschlands neues Inklusionsgesetz ",
+          "url": "Deutschlands-neues-Inklusiongesetz",
+          "description": "Das neue deutsche Gesetz zur Inklusion am Arbeitsplatz könnte sich positiv und direkt auf Minderheiten und ihre Beschäftigungschancen auswirken.",
+          "date": "2023-08-24",
+          "createdAt": "2023-08-24T17:58:06.985Z",
+          "updatedAt": "2023-08-24T17:58:11.676Z",
+          "publishedAt": "2023-08-24T17:58:11.671Z",
+          "content": "**Deutschlands neues Inklusionsgesetz revolutioniert die Vielfalt in der Arbeitswelt**\n\nDeutschland, bekannt für seine industrielle Stärke und Innovation, begegnet nun einem bedeutenden Problem: 1,5 Millionen Menschen mit Behinderungen sind arbeitslos, trotz eines Fachkräftemangels.\n\nIn einer Welt, in der Vielfalt und Chancengleichheit zunehmend an Bedeutung gewinnen, wird die Notwendigkeit, das Potenzial eines jeden Einzelnen zu nutzen, immer wichtiger.\n\nTrotz eines Fachkräftemangels in Deutschland bleibt die Beschäftigungssituation für Menschen mit Behinderungen düster. \n\nEtwa 60% der Unternehmen des Landes, die gesetzlich verpflichtet sind, einen bestimmten Prozentsatz an Mitarbeitern mit Behinderungen zu beschäftigen, erfüllen diese Anforderung nicht. \n\nErstaunlicherweise beschäftigt ein Viertel dieser Unternehmen nicht eine einzige Person mit Behinderungen und verschwendet somit ein großes ungenutztes Potenzial.\n\nDas bevorstehende Inklusionsgesetz, das 2024 in Kraft tritt, wird diese Situation verändern. Diese Gesetzgebung wird Arbeitgeber stärker zur Rechenschaft ziehen, indem höhere Strafen für Nichteinhaltung verhängt werden. Die Gelder aus den Strafen sollen für die Förderung inklusiver Beschäftigungsmöglichkeiten auf dem allgemeinen Arbeitsmarkt verwendet werden, die Genehmigung von Unterstützungsprogrammen beschleunigen und Obergrenzen für Lohnzuschüsse aufheben.\n\nDie Veränderung hin zur Inklusion ist deutlich spürbar. Klein- und mittelständische Unternehmen (KMU) beginnen, Menschen mit Behinderungen vermehrt in ihre Belegschaft aufzunehmen, was zu einem Anstieg von 33% seit 2015 führt, wie der Inklusionsbarometer berichtet. \n\nUm diesen Trend weiter zu fördern, wird die neue Initiative der Einheitlichen Ansprechstellen für Arbeitgeber (EAA) Unternehmen mit potenziellen Kandidaten vernetzen und das Bewusstsein für verfügbare Ressourcen schärfen. Zudem tragen proaktive Maßnahmen wie die Sicherstellung von physischer und digitaler Barrierefreiheit nicht nur zur Unterstützung von Menschen mit Behinderungen bei, sondern tragen auch zur Anpassung an eine alternde Belegschaft bei.\n\nInklusion geht über das Erfüllen von Quoten hinaus; es geht darum, das vielfältige Talent aller Einzelpersonen zu nutzen. \n\nMit jeder Erfolgsgeschichte geht Deutschland einen Schritt weiter in Richtung Realisierung des vollen Potenzials seiner Arbeitskräfte und fördert eine wirklich inklusive Gesellschaft.",
+          "blog_author": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "Isidora",
+                "description": "Isidora unterstützt Crowdrecht als Praktikantin im Bereich Marketing",
+                "createdAt": "2023-07-27T08:35:18.082Z",
+                "updatedAt": "2023-08-18T07:06:14.790Z",
+                "publishedAt": "2023-07-27T08:35:31.197Z"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 116,
+              "attributes": {
+                "name": "uno.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1080,
+                "height": 1080,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_uno.png",
+                    "hash": "thumbnail_uno_20dcee43c7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 57.69,
+                    "url": "/uploads/thumbnail_uno_20dcee43c7.png"
+                  }
+                },
+                "hash": "uno_20dcee43c7",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 779.23,
+                "url": "/uploads/uno_20dcee43c7.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-24T17:27:29.857Z",
+                "updatedAt": "2023-08-24T17:27:29.857Z"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "categories": [
+      { "id": 1, "attributes": { "title": "Crowdrecht erklärt" } },
+      { "id": 2, "attributes": { "title": "News" } },
+      { "id": 3, "attributes": { "title": "Aktuelle Rechtsprechung" } }
+    ],
+    "seo": {
+      "title": "Aus Jufund wird Crowdrecht - Gemeinsam gerecht!",
+      "description": "Crowdrecht - ein neuer Name für eine neue Ära im Crowdinvesting",
+      "keywords": null,
+      "url": "blog-article",
+      "createdAt": "2023-03-28T12:10:48.367Z",
+      "updatedAt": "2023-03-28T12:10:49.869Z",
+      "publishedAt": "2023-03-28T12:10:49.864Z",
+      "nofollow": false
+    }
+  },
+  "__N_SSG": true
+}
